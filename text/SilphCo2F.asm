@@ -1,97 +1,100 @@
 SilphCo2FSilphWorkerFPleaseTakeThisText::
-	text "Eeek!"
-	line "No! Stop! Help!"
+	text "Aiuto!"
+	line "No! Fermati!"
 
-	para "Oh, you're not"
-	line "with TEAM ROCKET."
-	cont "I thought..."
-	cont "I'm sorry. Here,"
-	cont "please take this!"
+	para "Non stai con"
+	line "TEAM ROCKET!"
+	cont "Pensavo... Scusa!"
+	cont "Ecco, prendi!"
 	prompt
 
 _SilphCo2FSilphWorkerFReceivedTM36Text::
-	text "<PLAYER> got"
-	line "@"
+	text "<PLAYER> riceve"
+	line "la @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SilphCo2FSilphWorkerFTM36ExplanationText::
-	text "TM36 is"
-	line "SELFDESTRUCT!"
+	text "MT36 è"
+	line "AUTODISTRUZIONE!"
 
-	para "It's powerful, but"
-	line "the #MON that"
-	cont "uses it faints!"
-	cont "Be careful."
+	para "È davvero potente!"
+	line "Ma il #MON che"
+	cont "la userà sarà"
+	cont "debilitato!"
+	cont "Fa attenzione!!!"
 	done
 
 _SilphCo2FSilphWorkerFTM36NoRoomText::
-	text "You don't have any"
-	line "room for this."
+	text "Non hai più spazio"
+	line "per questo!!!"
 	done
 
 _SilphCo2FScientist1BattleText::
-	text "Help! I'm a SILPH"
-	line "employee."
+	text "Aiuto! Sono"
+	line "un dipendente"
+	cont "della SILPH SpA!"
 	done
 
 _SilphCo2FScientist1EndBattleText::
-	text "How"
-	line "did you know I"
-	cont "was a ROCKET?"
+	text "Come"
+	line "sapevi che ero"
+	cont "un ROCKET?"
 	prompt
 
 _SilphCo2FScientist1AfterBattleText::
-	text "I work for both"
-	line "SILPH and TEAM"
-	cont "ROCKET!"
+	text "Lavoro sia per la"
+	line "SILPH SpA che per"
+	cont "TEAM ROCKET!"
 	done
 
 _SilphCo2FScientist2BattleText::
-	text "It's off limits"
-	line "here! Go home!"
+	text "Qui è off limit!"
+	line "Aria, pidocchio!"
 	done
 
 _SilphCo2FScientist2EndBattleText::
-	text "You're"
-	line "good."
+	text "Però!"
+	line "Sei forte!"
 	prompt
 
 _SilphCo2FScientist2AfterBattleText::
-	text "Can you solve the"
-	line "maze in here?"
+	text "Riesci a uscire da"
+	line "questo labirinto?"
 	done
 
 _SilphCo2FRocket1BattleText::
-	text "No kids are"
-	line "allowed in here!"
+	text "Ehi, i bambini non"
+	line "possono entrare!"
 	done
 
 _SilphCo2FRocket1EndBattleText::
-	text "Tough!"
+	text "È dura!"
 	prompt
 
 _SilphCo2FRocket1AfterBattleText::
-	text "Diamond shaped"
-	line "tiles are"
-	cont "teleport blocks!"
+	text "Le piastrelle a"
+	line "forma di diamante"
+	cont "sono blocchi di"
+	cont "teletrasporto!"
 
-	para "They're hi-tech"
-	line "transporters!"
+	para "Teletrasporto ad"
+	line "alta tecnologia!"
 	done
 
 _SilphCo2FRocket2BattleText::
-	text "Hey kid! What are"
-	line "you doing here?"
+	text "Ehi, mosca!"
+	line "Cosa fai qua?"
 	done
 
 _SilphCo2FRocket2EndBattleText::
-	text "I goofed!"
+	text_start
+	line "Ho fallito!"
 	prompt
 
 _SilphCo2FRocket2AfterBattleText::
-	text "SILPH CO. will"
-	line "be merged with"
+	text "La SILPH SpA"
+	line "si fonderà con"
 	cont "TEAM ROCKET!"
 	done

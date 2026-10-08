@@ -123,7 +123,7 @@ NullChar::
 	dec de
 	ret
 
-TextIDErrorText:: ; "[hTextID] ERROR."
+TextIDErrorText:: ; "[hTextID] ERRORE."
 	text_far _TextIDErrorText
 	text_end
 
@@ -161,11 +161,11 @@ PlaceMoveUsersName::
 	jr PlaceCommandCharacter
 
 .enemy
-	ld de, EnemyText
+	ld de, wEnemyMonNick
 	call PlaceString
 	ld h, b
 	ld l, c
-	ld de, wEnemyMonNick
+	ld de, EnemyText
 	; fallthrough
 
 PlaceCommandCharacter::
@@ -176,14 +176,14 @@ PlaceCommandCharacter::
 	inc de
 	jp PlaceNextChar
 
-TMCharText::      db "TM@"
-TrainerCharText:: db "TRAINER@"
 PCCharText::      db "PC@"
 RocketCharText::  db "ROCKET@"
-PlacePOKeText::   db "POKé@"
 SixDotsCharText:: db "……@"
-EnemyText::       db "Enemy @"
 PlacePKMNText::   db "<PK><MN>@"
+TMCharText::      db "MT@"
+TrainerCharText:: db "ALLEN.@"
+PlacePOKeText::   db "POKé@"
+EnemyText::       db " nemico@"
 
 ContText::
 	push de

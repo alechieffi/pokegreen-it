@@ -1,6 +1,4 @@
 PlayerPC::
-	ld hl, wStatusFlags5
-	set BIT_NO_TEXT_DELAY, [hl]
 	ld a, ITEM_NAME
 	ld [wNameListType], a
 	call SaveScreenTilesToBuffer1
@@ -17,6 +15,8 @@ PlayerPC::
 	call PrintText
 
 PlayerPCMenu:
+	ld hl, wStatusFlags5
+	set 6, [hl]
 	ld a, [wParentMenuItem]
 	ld [wCurrentMenuItem], a
 	ld hl, wMiscFlags
@@ -24,7 +24,7 @@ PlayerPCMenu:
 	call LoadScreenTilesFromBuffer2
 	hlcoord 0, 0
 	ld b, $8
-	ld c, $e
+	ld c, $10
 	call TextBoxBorder
 	call UpdateSprites
 	hlcoord 2, 2
@@ -241,10 +241,10 @@ PlayerPCToss:
 	jp .loop
 
 PlayersPCMenuEntries:
-	db   "WITHDRAW ITEM"
-	next "DEPOSIT ITEM"
-	next "TOSS ITEM"
-	next "LOG OFF@"
+	db   "RITIRA STRUM."
+	next "DEPOSITA STRUM."
+	next "BUTTA STRUM."
+	next "DISCONNETTI@"
 
 TurnedOnPC2Text:
 	text_far _TurnedOnPC2Text

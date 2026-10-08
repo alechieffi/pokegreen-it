@@ -28,7 +28,7 @@ LinkCableHelp::
 	set BIT_NO_TEXT_DELAY, [hl]
 	hlcoord 0, 0
 	ld b, 8
-	ld c, 13
+	ld c, 14
 	call TextBoxBorder
 	hlcoord 2, 2
 	ld de, HowToLinkText
@@ -68,10 +68,10 @@ LinkCableHelpText2:
 	text_end
 
 HowToLinkText:
-	db   "HOW TO LINK"
-	next "COLOSSEUM"
-	next "TRADE CENTER"
-	next "STOP READING@"
+	db   "CONNESSIONE"
+	next "COLOSSEO"
+	next "CENTRO SCAMBI"
+	next "FINE LETTURA@"
 
 LinkCableInfoTexts:
 	dw LinkCableInfoText1
@@ -185,14 +185,14 @@ ViridianSchoolBlackboardText2:
 	text_end
 
 StatusAilmentText1:
-	db   " SLP"
-	next " PSN"
+	db   " DRM"
+	next " VLN"
 	next " PAR@"
 
 StatusAilmentText2:
-	db   " BRN"
-	next " FRZ"
-	next " QUIT@"
+	db   " BRU"
+	next " GEL"
+	next " ESCI@"
 
 	db "@" ; unused
 

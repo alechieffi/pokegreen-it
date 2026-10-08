@@ -1,67 +1,68 @@
 _CeladonMansion3FProgrammerText::
-	text "Me? I'm the"
-	line "programmer!"
+	text "Io? Sono il"
+	line "programmatore!"
 	done
 
 _CeladonMansion3FGraphicArtistText::
-	text "I'm the graphic"
-	line "artist!"
-	cont "I drew you!"
+	text "Sono il grafico"
+	line "che ti ha"
+	cont "disegnato!"
 	done
 
 _CeladonMansion3FWriterText::
-	text "I wrote the story!"
-	line "Isn't ERIKA cute?"
+	text "Ho scritto la"
+	line "storia! Non è"
+	cont "forte ERIKA?"
 
-	para "I like MISTY a"
-	line "lot too!"
+	para "Mi piace molto"
+	line "anche MISTY!"
 
-	para "Oh, and SABRINA,"
-	line "I like her!"
+	para "Per non parlare"
+	line "di SABRINA!"
 	done
 
 _CeladonMansion3FGameDesignerText::
-	text "Is that right?"
+	text "Va bene?"
 
-	para "I'm the game"
-	line "designer!"
+	para "Ho progettato"
+	line "questo gioco!"
 
-	para "Filling up your"
-	line "#DEX is tough,"
-	cont "but don't quit!"
+	para "Completare il tuo"
+	line "#DEX è"
+	cont "difficile, ma"
+	cont "non arrenderti!"
 
-	para "When you finish,"
-	line "come tell me!"
+	para "Quando hai finito"
+	line "vieni a dirmelo!"
 	done
 
 _CeladonMansion3FGameDesignerCompletedDexText::
-	text "Wow! Excellent!"
-	line "You completed"
-	cont "your #DEX!"
-	cont "Congratulations!"
-	cont "...@"
+	text "Wow! Eccellente!"
+	line "Hai completato il"
+	cont "tuo #DEX!"
+	cont "Congratulazioni!@"
 	text_end
 
 _CeladonMansion3FGameProgramPCText::
-	text "It's the game"
-	line "program! Messing"
-	cont "with it could bug"
-	cont "out the game!"
+	text "È il programma del"
+	line "gioco! Non lo"
+	cont "toccare, potrebbe"
+	cont "esplodere!"
 	done
 
 _CeladonMansion3FPlayingGamePCText::
-	text "Someone's playing"
-	line "a game instead of"
-	cont "working!"
+	text "Qualcuno sta"
+	line "giocando invece"
+	cont "di lavorare!"
 	done
 
 _CeladonMansion3FGameScriptPCText::
-	text "It's the script!"
-	line "Better not look"
-	cont "at the ending!"
+	text "È il copione!"
+	line "Ma non leggere"
+	cont "il finale!"
 	done
 
 _CeladonMansion3FDevRoomSignText::
 	text "GAME FREAK"
-	line "Development Room"
+	line "Sala Sviluppo"
 	done

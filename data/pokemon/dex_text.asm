@@ -1,1509 +1,1509 @@
 _RhydonDexEntry::
-	text "It begins walking"
-	next "on its hind legs"
-	next "after evolution."
+	text "Protetto da una"
+	next "pelle-armatura,"
+	next "può vivere in"
 
-	page "It can punch holes"
-	next "through boulders"
-	next "with its horn"
-	dex    
+	page "lava liquida a"
+	next "3.600 gradi."
+
+	dex
 
 _KangaskhanDexEntry::
-	text "The female raises"
-	next "its offspring in"
-	next "its belly pouch."
+	text "Normalmente"
+	next "il cucciolo non"
+	next "esce dal marsupio"
 
-	page "It is skilled at"
-	next "attacking using"
-	next "COMET PUNCH"
+	page "protettivo della"
+	next "madre fino all'"
+	next "età di 3 anni."
 	dex
 
 _NidoranMDexEntry::
-	text "Its large ears are"
-	next "flapped like wings"
-	next "when its listening"
+	text "Per captare il"
+	next "pericolo aguzza"
+	next "le orecchie. Più"
 
-	page "to distant sounds."
-	next "It extends toxic"
-	next "barbs when angery"
+	page "grandi le corna,"
+	next "più potente sarà"
+	next "il suo veleno."
 	dex
 
 _ClefairyDexEntry::
-	text "Its adorable"
-	next "appearance makes"
-	next "it popular as a"
+	text "Molti amano"
+	next "il suo aspetto"
+	next "magico e tenero."
 
-	page "pet. However, its"
-	next "rare and difficult"
-	next "to find"
+	page "È raro e "
+	next "si trova solo"
+	next "in certe zone."
 	dex
 
 _SpearowDexEntry::
-	text "It busily flits"
-	next "around here and"
-	next "there. Even if its"
+	text "Mangia insetti"
+	next "nell'erba alta."
+	next "Per rimanere in"
 
-	page "frail, it can be"
-	next "a tough foe that"
-	next "uses MIRROR MOVE"
+	page "aria sbatte le"
+	next "ali corte molto"
+	next "velocemente."
 	dex
 
 _VoltorbDexEntry::
-	text "A life-form whose"
-	next "identity is"
-	next "unknown. Its said"
+	text "Di solito vive"
+	next "nelle centrali"
+	next "elettriche. Se"
 
-	page "to SCREECH or"
-	next "suddenly"
-	next "SELFDESTRUCT"
+	page "confuso con una"
+	next "# BALL, può"
+	next "essere fatale."
 	dex
 
 _NidokingDexEntry::
-	text "Its recognized by"
-	next "its rock-hard hide"
-	next "and extended horn."
+	text "In lotta usa la"
+	next "potente coda"
+	next "per colpire e"
 
-	page "Be careful with"
-	next "the horn as it"
-	next "contains venom"
+	page "stritolare la"
+	next "preda, poi le"
+	next "rompe le ossa."
 	dex
 
 _SlowbroDexEntry::
-	text "When a SLOWPOKE"
-	next "went hunting in"
-	next "the sea, its tail"
+	text "Si dice che lo"
+	next "SHELLDER"
+	next "attaccato alla"
 
-	page "was bitten by a"
-	next "SHELLDER, evolving"
-	next "into SLOWBRO"
+	page "coda di SLOWPOKE"
+	next "si nutra degli"
+	next "avanzi di questo."
 	dex
 
 _IvysaurDexEntry::
-	text "Theres a plant"
-	next "bulb on its back."
-	next "When it absorbs"
+	text "Quando gli cresce"
+	next "il bulbo sulla"
+	next "schiena, sembra"
 
-	page "nutrients the bulb"
-	next "is said to blossom"
-	next "into a big flower"
+	page "non riuscire più"
+	next "a stare in"
+	next "posizione eretta."
 	dex
 
 _ExeggutorDexEntry::
-	text "It is called The"
-	next "Walking Tropical"
-	next "Rainforest. Each"
+	text "La leggenda narra"
+	next "che in rari casi"
+	next "una delle sue"
 
-	page "of the nuts has a"
-	next "face and a will"
-	next "of its own"
+	page "teste si stacca e"
+	next "procede come un"
+	next "EXEGGCUTE."
 	dex
 
 _LickitungDexEntry::
-	text "Its tongues twice"
-	next "the length of its"
-	next "body. It can be"
+	text "Gli si allunga la"
+	next "lingua come a un"
+	next "camaleonte."
 
-	page "moved like an arm"
-	next "for grabbing food"
-	next "and attacking"
+	page "Le sue leccate"
+	next "provocano prurito"
+	next "e irritazioni."
 	dex
 
 _ExeggcuteDexEntry::
-	text "Though it appears"
-	next "to be eggs of some"
-	next "sort, it was"
+	text "Molto simili"
+	next "alle uova, se"
+	next "disturbati si"
 
-	page "discovered to be a"
-	next "life-form more"
-	next "like plant seeds"
+	page "raggruppano in"
+	next "fretta attaccando"
+	next "all'unisono."
 	dex
 
 _GrimerDexEntry::
-	text "Sludge exposed to"
-	next "X-rays from the"
-	next "moon transformed"
+	text "Prospera in zone"
+	next "paludose. Cresce"
+	next "nutrendosi del"
 
-	page "into GRIMER. It"
-	next "loves feeding on"
-	next "filthy things"
+	page "liquame inquinato"
+	next "scaricato dalle"
+	next "fabbriche."
 	dex
 
 _GengarDexEntry::
-	text "Its said to emerge"
-	next "from darkness to"
-	next "steal the lives"
+	text "Nelle notti di"
+	next "luna piena ama"
+	next "mimare le ombre"
 
-	page "of those who"
-	next "become lost in"
-	next "mountains"
+	page "della gente e"
+	next "deridere il loro"
+	next "terrore."
 	dex
 
 _NidoranFDexEntry::
-	text "Though small, it"
-	next "must be treated"
-	next "with caution be-"
+	text "Sebbene piccolo,"
+	next "i suoi baffi"
+	next "velenosi sono"
 
-	page "cause of its toxic"
-	next "barbs. The female"
-	next "has smaller horns"
+	page "molto pericolosi."
+	next "La femmina ha"
+	next "corna più minute."
 	dex
 
 _NidoqueenDexEntry::
-	text "The body is"
-	next "covered by stiff,"
-	next "needle-ish scales."
+	text "È protetto dalle"
+	next "sue dure squame."
+	next "Usa la sua enorme"
 
-	page "If it becomes"
-	next "excited, needles"
-	next "bristle outwards"
+	page "mole per eseguire"
+	next "movimenti"
+	next "possenti."
 	dex
 
 _CuboneDexEntry::
-	text "It wears the skull"
-	next "of its dead mother"
-	next "on its head."
+	text "Poiché non si"
+	next "leva mai il suo"
+	next "casco-teschio,"
 
-	page "When it becomes"
-	next "lonesome, its said"
-	next "to cry loudly"
+	page "nessuno ha mai"
+	next "visto il suo"
+	next "vero muso."
 	dex
 
 _RhyhornDexEntry::
-	text "Strong, but not"
-	next "too bright, this"
-	next "#MON can"
+	text "Le sue ossa sono"
+	next "1000 volte più"
+	next "dure di quelle"
 
-	page "shatter even a"
-	next "skyscraper with"
-	next "charging TACKLEs"
+	page "umane. Può"
+	next "anche far volare"
+	next "un rimorchio."
 	dex
 
 _LaprasDexEntry::
-	text "Its intelligence"
-	next "enables it to"
-	next "understand human"
+	text "Cacciato quasi"
+	next "fino all'estin-"
+	next "zione, questo"
 
-	page "speech. It likes"
-	next "to ferry people"
-	next "on its back"
+	page "#MON può"
+	next "traghettare la"
+	next "gente sull'acqua."
 	dex
 
 _ArcanineDexEntry::
-	text "A #MON that is"
-	next "described in"
-	next "Chinese legends."
+	text "Da sempre"
+	next "ammirato per la"
+	next "sua bellezza,"
 
-	page "It is said to race"
-	next "at an unbelievable"
-	next "speed"
+	page "corre veloce come"
+	next "se avesse le ali."
+	
 	dex
 
 _MewDexEntry::
-	text "A #MON of South"
-	next "America that was"
-	next "thought to have"
+	text "È così raro che"
+	next "molti esperti"
+	next "sostengono sia"
 
-	page "been extinct. Its"
-	next "intelligent and"
-	next "learns any move"
+	page "un'illusione."
+	next "Solo qualcuno al"
+	next "mondo l'ha visto."
 	dex
 
 _GyaradosDexEntry::
-	text "It has a very"
-	next "aggressive nature."
-	next "The HYPER BEAM it"
+	text "Poco comune allo"
+	next "stato selvatico."
+	next "Enorme e cattivo,"
 
-	page "shoots from its"
-	next "mouth incinerates"
-	next "all targets"
+	page "può distruggere"
+	next "intere città in"
+	next "un solo attacco."
 	dex
 
 _ShellderDexEntry::
-	text "Its encased in a"
-	next "shell thats harder"
-	next "than diamond."
+	text "La sua conchiglia"
+	next "dura respinge"
+	next "ogni tipo di"
 
-	page "Inside, however,"
-	next "it is surprisingly"
-	next "tender"
+	page "attacco. È vul-"
+	next "nerabile solo a"
+	next "guscio aperto."
 	dex
 
 _TentacoolDexEntry::
-	text "Its eyes are as"
-	next "transparent as"
-	next "crystals. From"
+	text "Va alla deriva in"
+	next "acque poco pro-"
+	next "fonde. Se pescato"
 
-	page "them, it shoots"
-	next "mysterious beams"
-	next "of light"
+	page "per sbaglio,"
+	next "colpisce con un"
+	next "acido pungente."
 	dex
 
 _GastlyDexEntry::
-	text "A being who exists"
-	next "as a thin gas. It"
-	next "can topple an"
+	text "Quasi invisibile,"
+	next "questo #MON"
+	next "gassoso avvolge"
 
-	page "Indian elephant by"
-	next "enveloping the"
-	next "prey in seconds"
+	page "il nemico e lo"
+	next "addormenta"
+	next "senza preavviso."
 	dex
 
 _ScytherDexEntry::
-	text "It tears and"
-	next "shreds prey with"
-	next "its wickedly sharp"
+	text "Con l'agilità e"
+	next "la velocità di un"
+	next "ninja, crea l'"
 
-	page "scythes. It very"
-	next "rarely spreads its"
-	next "wings to fly"
+	page "illusione ottica"
+	next "che ce ne siano"
+	next "più di uno."
 	dex
 
 _StaryuDexEntry::
-	text "It appears in"
-	next "large numbers by"
-	next "seashores. At"
+	text "Molto enigmatico,"
+	next "è in grado di"
+	next "rigenerare senza"
 
-	page "night, its central"
-	next "core flashes with"
-	next "a red light"
+	page "fatica qualsiasi"
+	next "appendice persa"
+	next "lottando."
 	dex
 
 _BlastoiseDexEntry::
-	text "It crushes its foe"
-	next "under its heavy"
-	next "body to strike."
+	text "#MON brutale"
+	next "con getti d'acqua"
+	next "ad alta pressione"
 
-	page "In a pinch"
-	next "it will withdraw"
-	next "inside its shell"
+	page "nella corazza."
+	next "Usato per "
+	next "attacchi rapidi."
 	dex
 
 _PinsirDexEntry::
-	text "Its long pincer"
-	next "horns are strong."
-	next "Once they grip an"
+	text "Se non riesce a"
+	next "stritolare la"
+	next "vittima con le"
 
-	page "enemy, they won't"
-	next "release until the"
-	next "foe is torn"
+	page "chele, la sbatte"
+	next "e la scaglia via"
+	next "con violenza."
 	dex
 
 _TangelaDexEntry::
-	text "Blue plant vines"
-	next "hide the #MON's"
-	next "identity in a"
+	text "Ha il corpo tutto"
+	next "coperto di larghe"
+	next "liane, simili a"
 
-	page "tangled mass. It"
-	next "entangles anything"
-	next "that gets close"
+	page "alghe marine, che"
+	next "ondeggiano"
+	next "quando cammina."
 	dex
 
 _GrowlitheDexEntry::
-	text "Very friendly"
-	next "and faithful to"
-	next "people. It will"
+	text "Strenuo"
+	next "difensore del"
+	next "suo territorio,"
 
-	page "try to repel"
-	next "enemies by barking"
-	next "and biting"
+	page "abbaia e morde"
+	next "per respingere"
+	next "gli intrusi."
 	dex
 
 _OnixDexEntry::
-	text "It usually lives"
-	next "underground. It"
-	next "searches for food"
+	text "Crescendo, la"
+	next "parte rocciosa"
+	next "del suo corpo si"
 
-	page "while boring its"
-	next "way through the"
-	next "ground at 50 mph"
+	page "indurisce diven-"
+	next "tando simile a"
+	next "un diamante nero."
 	dex
 
 _FearowDexEntry::
-	text "Its magnificent"
-	next "wings can keep it"
-	next "aloft in the sky."
+	text "Con le sue enormi"
+	next "e magnifiche ali,"
+	next "può mantenersi"
 
-	page "It can remain"
-	next "flying a whole day"
-	next "without landing"
+	page "in aria senza mai"
+	next "dover atterrare"
+	next "per riposarsi."
 	dex
 
 _PidgeyDexEntry::
-	text "Does not like to"
-	next "fight. It hides in"
-	next "tall grass and so"
+	text "Molto comune in"
+	next "boschi e foreste,"
+	next "sbatte le ali a"
 
-	page "on, foraging for"
-	next "food such as"
-	next "small bugs"
+	page "livello del suolo"
+	next "per raccogliere"
+	next "sabbia accecante."
 	dex
 
 _SlowpokeDexEntry::
-	text "It is always lost"
-	next "in thought, but no"
-	next "one knows what it"
+	text "Incredibilmente"
+	next "lento e tonto, ci"
+	next "mette 5 secondi"
 
-	page "is thinking about."
-	next "Its good at fish-"
-	next "ing with its tail"
+	page "a percepire il"
+	next "dolore dopo"
+	next "l'attacco."
 	dex
 
 _KadabraDexEntry::
-	text "It happened one"
-	next "morning -a boy"
-	next "with extrasensory"
+	text "Il suo corpo"
+	next "emette speciali"
+	next "onde alfa che"
 
-	page "powers awoke in"
-	next "bed transformed"
-	next "into KADABRA"
+	page "causano mal di"
+	next "testa a chi gli"
+	next "si avvicina."
 	dex
 
 _GravelerDexEntry::
-	text "Be careful while"
-	next "hiking on mountain"
-	next "trails. GRAVELER"
+	text "Si muove roto-"
+	next "lando in discesa."
+	next "Rotola su ogni"
 
-	page "may come rolling"
-	next "down the path"
-	next "without slowing"
+	page "ostacolo senza"
+	next "frenare o mutare"
+	next "direzione."
 	dex
 
 _ChanseyDexEntry::
-	text "It lays several"
-	next "eggs a day. The"
-	next "eggs are"
+	text "Questo #MON"
+	next "raro e sfuggente"
+	next "si dice che porti"
 
-	page "apparently rich in"
-	next "nutrients and"
-	next "quite delicious"
+	page "la felicità a"
+	next "chiunque riesca"
+	next "a catturarlo."
 	dex
 
 _MachokeDexEntry::
-	text "Its formidable"
-	next "body never gets"
-	next "tired. It helps"
+	text "Il suo corpo"
+	next "muscoloso è così"
+	next "forte che usa una"
 
-	page "people by doing"
-	next "work such as the"
-	next "moving of goods"
+	page "cintura antiforza"
+	next "per regolare i"
+	next "suoi movimenti."
 	dex
 
 _MrMimeDexEntry::
-	text "It is adept at"
-	next "conning people. It"
-	next "is said to be able"
+	text "Se interrotto"
+	next "durante la mimica"
+	next "schiaffeggia"
 
-	page "to create walls"
-	next "out of thin air"
-	next "by miming"
+	page "ripetutamente"
+	next "il nemico con le"
+	next "enormi mani."
 	dex
 
 _HitmonleeDexEntry::
-	text "The legs freely"
-	next "contract and"
-	next "stretch. Its"
+	text "Se di fretta gli"
+	next "si allungano le"
+	next "zampe. Corre"
 
-	page "legs allow it to"
-	next "hit a foe with"
-	next "a rising kick"
+	page "agilmente con"
+	next "falcate morbide"
+	next "e lunghissime."
 	dex
 
 _HitmonchanDexEntry::
-	text "The spirit of a"
-	next "pro boxer in a"
-	next "#MON. It throws"
+	text "Sebbene appaia"
+	next "inattivo, sferra"
+	next "serie repentine"
 
-	page "punches that are"
-	next "faster than a"
-	next "bullet train"
+	page "di pugni, così"
+	next "veloci da essere"
+	next "invisibili."
 	dex
 
 _ArbokDexEntry::
-	text "The pattern on its"
-	next "belly appears to"
-	next "be a frightening"
+	text "Si dice che i"
+	next "feroci disegni"
+	next "di avvertimento"
 
-	page "face. Weak foes"
-	next "will flee just at"
-	next "the sight of it"
+	page "sulla sua pancia"
+	next "varino da zona"
+	next "a zona."
 	dex
 
 _ParasectDexEntry::
-	text "It scatters toxic"
-	next "spores from the"
-	next "mushroom cap. In"
+	text "Una coppia ospi-"
+	next "te-parassita dove"
+	next "il fungo sovrasta"
 
-	page "China, the spores"
-	next "are used as"
-	next "herbal medicine"
+	page "l'insetto-ospite."
+	next "Ama gli"
+	next "ambienti umidi."
 	dex
 
 _PsyduckDexEntry::
-	text "It is constantly"
-	next "wracked by a head-"
-	next "ache. When the"
+	text "Mentre calma il"
+	next "nemico con il suo"
+	next "sguardo vacuo,"
 
-	page "headache turns"
-	next "intense, it uses"
-	next "mysterious powers"
+	page "questo #MON"
+	next "astuto usa poteri"
+	next "psicocinetici."
 	dex
 
 _DrowzeeDexEntry::
-	text "Descendent of the"
-	next "legendary animal"
-	next "baku which is said"
+	text "Addormenta i suoi"
+	next "nemici e poi si"
+	next "nutre dei loro"
 
-	page "to eat dreams. It"
-	next "is skilled at"
-	next "hypnotism"
+	page "sogni. A volte"
+	next "fa indigestione"
+	next "di incubi."
 	dex
 
 _GolemDexEntry::
-	text "It is enclosed in"
-	next "a hard shell that"
-	next "is as rugged as"
+	text "Il suo durissimo"
+	next "corpo roccioso"
+	next "resiste ad esplo-"
 
-	page "slabs of rock. It"
-	next "sheds skin once a"
-	next "year to grow"
+	page "sioni dinamitarde"
+	next "senza subire"
+	next "alcun danno."
 	dex
 
 _MagmarDexEntry::
-	text "Found near the"
-	next "mouth of volcanos."
-	next "Its body"
+	text "Il suo corpo arde"
+	next "con bagliori"
+	next "arancio che gli"
 
-	page "temperature is"
-	next "2,200 degrees"
-	next "Fahrenheit"
+	page "consentono una"
+	next "mimesi perfetta"
+	next "tra le fiamme."
 	dex
 
 _ElectabuzzDexEntry::
-	text "It loves to feed"
-	next "on electricity. It"
-	next "occasionally"
+	text "Normalmente vive"
+	next "vicino a centrali"
+	next "elettriche e se"
 
-	page "appears around"
-	next "large power plants"
-	next "and so on"
+	page "si allontana può"
+	next "causare blackout"
+	next "gravi in città."
 	dex
 
 _MagnetonDexEntry::
-	text "A linked cluster"
-	next "formed of several"
-	next "MAGNEMITE. It"
+	text "Formato da vari"
+	next "MAGNEMITE uniti,"
+	next "compare spesso"
 
-	page "discharges strong"
-	next "magnetic waves at"
-	next "high voltage"
+	page "quando si"
+	next "infiammano le"
+	next "macchie solari."
 	dex
 
 _KoffingDexEntry::
-	text "Its thin, balloon-"
-	next "like body is"
-	next "inflated by"
+	text "Siccome accumula"
+	next "vari tipi di gas"
+	next "tossici nel suo"
 
-	page "horribly toxic"
-	next "gases. It reeks"
-	next "when it is nearby"
+	page "corpo, può"
+	next "esplodere senza"
+	next "preavviso."
 	dex
 
 _MankeyDexEntry::
-	text "Light and agile"
-	next "on its feet,"
-	next "and ferocious in"
+	text "Molto iracondo,"
+	next "può passare dalla"
+	next "docilità all'ira"
 
-	page "temperament. When"
-	next "angered, it flies"
-	next "into a frenzy"
+	page "nell'arco di"
+	next "un solo istante."
+
 	dex
 
 _SeelDexEntry::
-	text "Covered with light"
-	next "blue fur, its hide"
-	next "is thick and tough"
+	text "Il corno che gli"
+	next "sporge dalla"
+	next "testa è molto"
 
-	page "It is active in"
-	next "bitter cold of"
-	next "minus 40 degrees"
+	page "duro. Lo usa per"
+	next "fendere lastroni"
+	next "di ghiaccio."
 	dex
 
 _DiglettDexEntry::
-	text "It burrows through"
-	next "the ground at a"
-	next "shallow depth. It"
+	text "Vive un metro"
+	next "sotto terra,"
+	next "dove si nutre"
 
-	page "leaves mounds in"
-	next "its wake, making"
-	next "it easy to spot"
+	page "di radici."
+	next "Talvolta compare"
+	next "in superficie."
 	dex
 
 _TaurosDexEntry::
-	text "When it is about"
-	next "to TACKLE, it"
-	next "whips its body"
+	text "Quando punta"
+	next "un nemico, carica"
+	next "furiosamente"
 
-	page "repeatedly with"
-	next "its three long"
-	next "tails"
+	page "frustando il suo"
+	next "corpo con la"
+	next "lunga coda."
 	dex
 
 _FarfetchdDexEntry::
-	text "It always walks"
-	next "about with a plant"
-	next "stalk clamped in"
+	text "Il ramoscello"
+	next "verde di cipolla"
+	next "che brandisce è"
 
-	page "its beak. The"
-	next "stalk is used for"
-	next "building its nest"
+	page "la sua arma, che"
+	next "usa come spada."
+
 	dex
 
 _VenonatDexEntry::
-	text "Its eyes act as"
-	next "radar, enabling it"
-	next "to be active in"
+	text "Vive all'ombra"
+	next "di alberi alti,"
+	next "dove si nutre di"
 
-	page "darkness. The eyes"
-	next "can also shoot"
-	next "powerful beams"
+	page "insetti."
+	next "Di notte è atti-"
+	next "rato dalla luce."
 	dex
 
 _DragoniteDexEntry::
-	text "It can fly in"
-	next "spite of its big"
-	next "and bulky"
+	text "#MON marino"
+	next "visto molto"
+	next "raramente."
 
-	page "physique. It"
-	next "circles the globe"
-	next "in just 16 hours"
+	page "Si dice che sia"
+	next "intelligente"
+	next "come l'uomo."
 	dex
 
 _DoduoDexEntry::
-	text "A two-headed"
-	next "#MON that was"
-	next "discovered as a"
+	text "Uccello incapace"
+	next "di volare,"
+	next "ma eccellente"
 
-	page "sudden mutation."
-	next "It runs at a pace"
-	next "of over 60 mph"
+	page "corridore."
+	next "Lascia"
+	next "orme enormi."
 	dex
 
 _PoliwagDexEntry::
-	text "Its slick skin is"
-	next "thin and damp, and"
-	next "its organs can be"
+	text "Le sue zampe poco"
+	next "sviluppate gli"
+	next "impediscono di"
 
-	page "seen through"
-	next "the skin as a"
-	next "spiral pattern"
+	page "correre. Sembra"
+	next "preferire nuotare"
+	next "che correre."
 	dex
 
 _JynxDexEntry::
-	text "It speaks using a"
-	next "language that"
-	next "sounds human."
+	text "Camminando"
+	next "ancheggia in modo"
+	next "seducente. Può"
 
-	page "Research is under"
-	next "way to determine"
-	next "whats being said"
+	page "indurre la gente"
+	next "a seguirlo"
+	next "nella sua danza."
 	dex
 
 _MoltresDexEntry::
-	text "One of the legend-"
-	next "ary bird #MON."
-	next "Those seeing it"
+	text "Noto come uccello"
+	next "leggendario del"
+	next "fuoco, quando"
 
-	page "are overwhelmed by"
-	next "its orange wings"
-	next "that seem on fire"
+	page "sbatte le ali"
+	next "crea scintillanti"
+	next "lingue infuocate."
 	dex
 
 _ArticunoDexEntry::
-	text "One of the legend-"
-	next "ary bird #MON."
-	next "With its long tail"
+	text "Uccello"
+	next "leggendario,"
+	next "si dice appaia"
 
-	page "trailing behind,"
-	next "its flying form"
-	next "is magnificent"
+	page "per atterrire chi"
+	next "si smarrisce"
+	next "sui ghiacciai."
 	dex
 
 _ZapdosDexEntry::
-	text "One of the legend-"
-	next "ary bird #MON."
-	next "While it is flying"
+	text "Uccello"
+	next "leggendario,"
+	next "si dice appaia"
 
-	page "it makes crackling"
-	next "and snapping"
-	next "sounds"
+	page "tra le nuvole"
+	next "scagliando"
+	next "enormi saette."
 	dex
 
 _DittoDexEntry::
-	text "It can freely"
-	next "recombine its own"
-	next "cellular structure"
+	text "Può copiare il"
+	next "codice genetico"
+	next "del suo nemico e"
 
-	page "to transform"
-	next "into other"
-	next "life-forms"
+	page "trasformarsi"
+	next "nella sua copia"
+	next "perfetta."
 	dex
 
 _MeowthDexEntry::
-	text "All it does is"
-	next "sleep during the"
-	next "daytime. At night,"
+	text "Ama gli oggetti"
+	next "rotondi. Di notte"
+	next "vaga per le vie"
 
-	page "it patrols its"
-	next "territory with"
-	next "its eyes aglow"
+	page "in cerca di"
+	next "monetine perdute."
+
 	dex
 
 _KrabbyDexEntry::
-	text "It can be found"
-	next "near the sea. The"
-	next "large pincers grow"
+	text "Le sue chele,"
+	next "potenti armi,"
+	next "lo mantengono"
 
-	page "back if they are"
-	next "torn out of"
-	next "their sockets"
+	page "in equilibrio"
+	next "quando cammina"
+	next "lateralmente."
 	dex
 
 _VulpixDexEntry::
-	text "While young, it"
-	next "has six gorgeous"
-	next "tails. When it"
+	text "Alla nascita ha"
+	next "solo una coda,"
+	next "che con"
 
-	page "grows, several"
-	next "new tails are"
-	next "sprouted"
+	page "il passare"
+	next "del tempo"
+	next "si moltiplica."
 	dex
 
 _NinetalesDexEntry::
-	text "It has nine long"
-	next "tails and fur that"
-	next "gleams gold. It"
+	text "Molto elegante e"
+	next "vendicativo. Chi"
+	next "gli afferra una"
 
-	page "is said to"
-	next "live for"
-	next "1,000 years"
+	page "coda rischia"
+	next "una maledizione"
+	next "millenaria."
 	dex
 
 _PikachuDexEntry::
-	text "It has electric"
-	next "sacs on both its"
-	next "cheeks. If"
+	text "Quando vari"
+	next "#MON di questo"
+	next "tipo si radunano,"
 
-	page "threatened, it"
-	next "looses charge"
-	next "from the sacs"
+	page "la loro energia"
+	next "può causare"
+	next "forti tempeste."
 	dex
 
 _RaichuDexEntry::
-	text "Its electricity"
-	next "can reach even"
-	next "100,000 volts."
+	text "La sua lunga"
+	next "coda serve da"
+	next "messa a terra"
 
-	page "Contact can cause"
-	next "even an Indian"
-	next "elephant to faint"
+	page "per proteggerlo"
+	next "dalla sua stessa"
+	next "alta tensione."
 	dex
 
 _DratiniDexEntry::
-	text "Even the young can"
-	next "exceed 6.5 feet in"
-	next "length. It grows"
+	text "Ritenuto a lungo"
+	next "mitico, se ne è"
+	next "poi trovata"
 
-	page "larger by"
-	next "repeatedly"
-	next "shedding skin"
+	page "un'esigua colonia"
+	next "sottomarina."
+
 	dex
 
 _DragonairDexEntry::
-	text "Its said to live"
-	next "in seas and lakes."
-	next "Even though it has"
+	text "#MON etereo"
+	next "che emana"
+	next "un'aura mite"
 
-	page "no wings, it has"
-	next "been seen flying"
-	next "occasionally"
+	page "e ha la capacità"
+	next "di mutare"
+	next "il clima."
 	dex
 
 _KabutoDexEntry::
-	text "This #MON was"
-	next "regenerated from"
-	next "the fossil of an"
+	text "#MON"
+	next "resuscitato da un"
+	next "fossile rinvenuto"
 
-	page "ancient creature."
-	next "It protects itself"
-	next "with a hard shell"
+	page "in quello che un"
+	next "tempo era il"
+	next "fondo oceanico."
 	dex
 
 _KabutopsDexEntry::
-	text "It swims freely"
-	next "through water. It"
-	next "catches prey with"
+	text "Ha una fisionomia"
+	next "da perfetto"
+	next "nuotatore. Taglia"
 
-	page "its scythe-like"
-	next "arms and drains"
-	next "the body's fluids"
+	page "la preda con le"
+	next "sue falci e ne"
+	next "beve il sangue."
 	dex
 
 _HorseaDexEntry::
-	text "It maintains"
-	next "balance using its"
-	next "tail, which is"
+	text "È noto per i suoi"
+	next "attacchi ai vola-"
+	next "tili con getti"
 
-	page "wound up like a"
-	next "coil. It spits ink"
-	next "from its mouth"
+	page "d'inchiostro"
+	next "dalla superficie"
+	next "dell'acqua."
 	dex
 
 _SeadraDexEntry::
-	text "Its body bristles"
-	next "with sharp spikes."
-	next "Carelessly trying"
+	text "Capace di nuotare"
+	next "indietro agitando"
+	next "rapidamente le"
 
-	page "to touch it could"
-	next "cause fainting"
-	next "from the spikes"
+	page "pinne pettorali"
+	next "ad ala e la sua"
+	next "robusta coda."
 	dex
 
 _SandshrewDexEntry::
-	text "It burrows and"
-	next "lives underground."
-	next "If threatened, it"
+	text "Si nasconde sotto"
+	next "terra in zone"
+	next "aride lontano"
 
-	page "curls itself up"
-	next "into a ball for"
-	next "protection"
+	page "dall'acqua."
+	next "Risale solo per"
+	next "cercare cibo."
 	dex
 
 _SandslashDexEntry::
-	text "Its adept at"
-	next "attacking with the"
-	next "spines on its back"
+	text "Se in pericolo si"
+	next "chiude a riccio."
+	next "Questa palla"
 
-	page "and its sharp"
-	next "claws while"
-	next "scurrying about"
+	page "spinosa può roto-"
+	next "lare, attaccare"
+	next "e scappare."
 	dex
 
 _OmanyteDexEntry::
-	text "A prehistoric"
-	next "#MON that lived"
-	next "in the primordial"
+	text "Sebbene estinto,"
+	next "in rari casi"
+	next "può essere"
 
-	page "sea, it swims by"
-	next "twisting its 10"
-	next "tentacles about"
+	page "geneticamente"
+	next "resuscitato"
+	next "dai fossili."
 	dex
 
 _OmastarDexEntry::
-	text "Its tentacles are"
-	next "highly developed"
-	next "as if they are"
+	text "#MON preisto-"
+	next "rico estinto."
+	next "La sua conchiglia"
 
-	page "hands and feet. As"
-	next "it ensnares prey,"
-	next "it quickly bites"
+	page "troppo pesante"
+	next "gli impediva"
+	next "la caccia."
 	dex
 
 _JigglypuffDexEntry::
-	text "It captivates foes"
-	next "with its huge,"
-	next "round eyes, then"
+	text "Se i suoi occhi"
+	next "si illuminano,"
+	next "canta una melodia"
 
-	page "lulls them to"
-	next "sleep by singing a"
-	next "soothing melody"
+	page "misteriosa che"
+	next "addormenta"
+	next "i suoi nemici."
 	dex
 
 _WigglytuffDexEntry::
-	text "Its fur is quite"
-	next "fine, dense, and"
-	next "supple. The ex-"
+	text "Il suo corpo è"
+	next "morbido e"
+	next "gommoso. Se si"
 
-	page "quisitely pleasant"
-	next "fur conveys an"
-	next "image of luxury"
+	page "arrabbia, aspira"
+	next "aria e si gonfia"
+	next "enormemente."
 	dex
 
 _EeveeDexEntry::
-	text "An extremely rare"
-	next "#MON that may"
-	next "evolve in a number"
+	text "Il suo codice"
+	next "genetico mutevole"
+	next "può cambiare se"
 
-	page "of different ways"
-	next "depending on"
-	next "stimuli"
+	page "esposto alle"
+	next "radiazioni delle"
+	next "PIETRE elemento."
 	dex
 
 _FlareonDexEntry::
-	text "It has a flame bag"
-	next "inside its body."
-	next "After inhaling, it"
+	text "Quando accumula"
+	next "energia termica,"
+	next "la temperatura"
 
-	page "blows out flames"
-	next "of nearly 3,100"
-	next "degrees"
+	page "corporea può"
+	next "salire fino"
+	next "1600 gradi."
 	dex
 
 _JolteonDexEntry::
-	text "If its angered or"
-	next "startled, the fur"
-	next "all over its body"
+	text "Accumula ioni"
+	next "negativi nell'"
+	next "atmosfera per"
 
-	page "bristles like"
-	next "sharp needles that"
-	next "pierce foes"
+	page "lanciare saette"
+	next "da 10000 volt."
+	
 	dex
 
 _VaporeonDexEntry::
-	text "Its cell structure"
-	next "is similar to"
-	next "water molecules."
+	text "Vive vicino all'"
+	next "acqua. La sua"
+	next "coda termina in"
 
-	page "It can melt"
-	next "invisibly in"
-	next "water"
+	page "una pinna rugosa"
+	next "simile a quella"
+	next "di una sirena."
 	dex
 
 _MachopDexEntry::
-	text "Its whole body is"
-	next "made of muscles."
-	next "Even though it's"
+	text "Ama essere"
+	next "muscoloso. Si"
+	next "allena in ogni"
 
-	page "the size of a"
-	next "child, it can hurl"
-	next "100 grown-ups"
+	page "arte marziale"
+	next "per essere sempre"
+	next "più forte."
 	dex
 
 _ZubatDexEntry::
-	text "It has no eyes."
-	next "Instead, it relies"
-	next "on its ultrasonic"
+	text "Forma colonie in"
+	next "luoghi oscuri."
+	next "Usa ultrasuoni"
 
-	page "cries for echo"
-	next "location to flit"
-	next "about in darkness"
+	page "per identificare"
+	next "e avvicinarsi ai"
+	next "suoi obiettivi."
 	dex
 
 _EkansDexEntry::
-	text "A common sight in"
-	next "grassland, etc. It"
-	next "flicks its tongue"
+	text "Si muove in modo"
+	next "silenzioso e"
+	next "furtivo. Mangia"
 
-	page "in and out to"
-	next "sense danger in"
-	next "its surroundings"
+	page "uova di uccelli"
+	next "tipo PIDGEY e"
+	next "SPEAROW."
 	dex
 
 _ParasDexEntry::
-	text "Growing out of the"
-	next "bug's back are"
-	next "mushrooms called"
+	text "Scava per bere"
+	next "dalle radici"
+	next "degli alberi."
 
-	page "tochukaso. The"
-	next "mushrooms grow"
-	next "with the bug host"
+	page "I funghi sulla"
+	next "sua schiena"
+	next "sono parassiti."
 	dex
 
 _PoliwhirlDexEntry::
-	text "Its two legs are"
-	next "well developed."
-	next "Even though it can"
+	text "Capace di vivere"
+	next "dentro o fuori"
+	next "dall'acqua. Fuori"
 
-	page "live on the"
-	next "ground, it prefers"
-	next "living in water"
+	page "dell'acqua suda"
+	next "per mantenere il"
+	next "suo corpo unto."
 	dex
 
 _PoliwrathDexEntry::
-	text "An adept swimmer,"
-	next "it knows the front"
-	next "crawl, butterfly,"
+	text "Esperto nuotatore"
+	next "sia di rana "
+	next "che di crawl,"
 
-	page "etc. It is faster"
-	next "than the best"
-	next "human swimmers"
+	page "supera facilmente"
+	next "i migliori"
+	next "nuotatori umani."
 	dex
 
 _WeedleDexEntry::
-	text "Often found in"
-	next "grass and forests."
-	next "It has a sharp,"
+	text "Spesso presente"
+	next "nei boschi, si"
+	next "nutre di foglie."
 
-	page "toxic barb of"
-	next "around two inches"
-	next "on top its head"
+	page "Ha un velenoso"
+	next "pungiglione"
+	next "sulla testa."
 	dex
 
 _KakunaDexEntry::
-	text "This #MON is in"
-	next "a temporary stage"
-	next "while making its"
+	text "Quasi incapace di"
+	next "muoversi, questo"
+	next "#MON può solo"
 
-	page "body. It is almost"
-	next "unable to move"
-	next "on its own"
+	page "indurire la sua"
+	next "corazza per"
+	next "proteggersi."
 	dex
 
 _BeedrillDexEntry::
-	text "May appear in a"
-	next "swarm. Flies at"
-	next "violent speeds,"
+	text "Vola velocemente"
+	next "e attacca usando"
+	next "i suoi grandi e"
 
-	page "all the while"
-	next "stabbing its toxic"
-	next "stinger"
+	page "velenosi pungi-"
+	next "glioni sulla coda"
+	next "e sulle zampe."
 	dex
 
 _DodrioDexEntry::
-	text "An odd species"
-	next "that is rarely"
-	next "found. The three"
+	text "Per tessere piani"
+	next "complessi usa i"
+	next "suoi 3 cervelli."
 
-	page "heads respectively"
-	next "represent joy,"
-	next "sadness and anger"
+	page "Mentre due teste"
+	next "dormono, la terza"
+	next "resta sveglia."
 	dex
 
 _PrimeapeDexEntry::
-	text "Always outrage-"
-	next "ously furious. If"
-	next "it gives chase, it"
+	text "Sempre furioso e"
+	next "tenace,"
+	next "perseguiterà"
 
-	page "will tenaciously"
-	next "track the target"
-	next "no matter how far"
+	page "la sua preda"
+	next "finché non l'avrà"
+	next "catturata."
 	dex
 
 _DugtrioDexEntry::
-	text "In battle, it digs"
-	next "through the ground"
-	next "and strikes the"
+	text "Trio di DIGLETT."
+	next "Provoca terribili"
+	next "terremoti"
 
-	page "unsuspecting foe"
-	next "from an unexpected"
-	next "direction"
+	page "scavando 80 km"
+	next "sotto terra."
+	
 	dex
 
 _VenomothDexEntry::
-	text "The wings are"
-	next "covered with dust-"
-	next "like scales. Every"
+	text "La polvere che"
+	next "copre le sue ali"
+	next "è di colore"
 
-	page "time it flaps its"
-	next "wings, it looses"
-	next "highly toxic dust"
+	page "diverso a seconda"
+	next "del tipo di"
+	next "veleno posseduto."
 	dex
 
 _DewgongDexEntry::
-	text "Its body is"
-	next "covered with a"
-	next "pure white fur."
+	text "Accumula energia"
+	next "termica nel suo"
+	next "corpo. Nuota"
 
-	page "The colder the"
-	next "weather, the more"
-	next "active it becomes"
+	page "a 8 nodi costanti"
+	next "anche in acqua"
+	next "molto fredda."
 	dex
 
 _CaterpieDexEntry::
-	text "Its covered with a"
-	next "green skin. When"
-	next "it grows it sheds,"
+	text "Le sue zampe"
+	next "cortissime sono"
+	next "ricoperte di"
 
-	page "covers itself with"
-	next "silk, and becomes"
-	next "a cocoon"
+	page "ventose per poter"
+	next "scalare sempre"
+	next "muri e salite."
 	dex
 
 _MetapodDexEntry::
-	text "Even though its"
-	next "encased in a hard"
-	next "shell, the body"
+	text "Questo #MON è"
+	next "vulnerabile agli"
+	next "attacchi quando"
 
-	page "inside is tender."
-	next "It can't withstand"
-	next "a harsh attack"
+	page "la corazza è"
+	next "morbida e il"
+	next "corpo fragile."
 	dex
 
 _ButterfreeDexEntry::
-	text "The wings are"
-	next "protected by rain-"
-	next "repellent dust. As"
+	text "In lotta sbatte"
+	next "le ali a gran"
+	next "velocità per"
 
-	page "a result, this"
-	next "#MON can fly"
-	next "even in rain"
+	page "liberare le sue"
+	next "polveri tossiche"
+	next "nell'aria."
 	dex
 
 _MachampDexEntry::
-	text "Its four ruggedly"
-	next "developed arms can"
-	next "launch a flurry"
+	text "Con i suoi"
+	next "muscoli poderosi,"
+	next "sferra pugni tali"
 
-	page "of 1,000 punches"
-	next "in just two"
-	next "seconds"
+	page "da poter lanciare"
+	next "la vittima oltre"
+	next "l'orizzonte."
 	dex
 
 _GolduckDexEntry::
-	text "The forelegs are"
-	next "webbed, helping to"
-	next "make it an adept"
+	text "Visto spesso nuo-"
+	next "tare nei laghi"
+	next "elegantemente, è"
 
-	page "swimmer. It swims"
-	next "elegantly in"
-	next "lakes, etc"
+	page "a volte confuso"
+	next "con Kappa, mostro"
+	next "giapponese."
 	dex
 
 _HypnoDexEntry::
-	text "It carries a"
-	next "pendulum-like"
-	next "device. There once"
+	text "Quando cattura lo"
+	next "sguardo del"
+	next "nemico usa un mix"
 
-	page "was an incident in"
-	next "which it took a"
-	next "hypnotized child"
+	page "di PSICO-mosse"
+	next "come l'IPNOSI e"
+	next "la CONFUSIONE."
 	dex
 
 _GolbatDexEntry::
-	text "It clamps down on"
-	next "its prey with"
-	next "needle-sharp fangs"
+	text "Quando attacca,"
+	next "non smette di"
+	next "succhiare energia"
 
-	page "and drains over 10"
-	next "ounces of blood"
-	next "in one gulp"
+	page "sebbene diventi"
+	next "troppo pesante"
+	next "per volare."
 	dex
 
 _MewtwoDexEntry::
-	text "A #MON's DNA"
-	next "was repeatedly re-"
-	next "combined for"
+	text "Creato da uno"
+	next "scienziato dopo"
+	next "anni di orribili"
 
-	page "research. It"
-	next "turned vicious"
-	next "as a result"
+	page "esperimenti di"
+	next "ingegneria"
+	next "genetica."
 	dex
 
 _SnorlaxDexEntry::
-	text "Its not satisfied"
-	next "unless it eats 880"
-	next "pounds of food"
+	text "Molto pigro,"
+	next "mangia e dorme."
+	next "Con l'aumento"
 
-	page "every day. When it"
-	next "is done eating, it"
-	next "goes to sleep"
+	page "della sua mole"
+	next "diventa sempre"
+	next "più indolente."
 	dex
 
 _MagikarpDexEntry::
-	text "Its worthless in"
-	next "terms of both"
-	next "power and speed."
+	text "Anticamente era"
+	next "molto più forte"
+	next "dell'odierno"
 
-	page "Its the most weak"
-	next "and pathetic"
-	next "#MON known"
+	page "discendente,"
+	next "incredibilmente"
+	next "debole."
 	dex
 
 _MukDexEntry::
-	text "Its usually un-"
-	next "detectable because"
-	next "it blends in with"
+	text "Coperto di melma"
+	next "ripugnante, è"
+	next "così tossico che"
 
-	page "the ground."
-	next "Touching it can"
-	next "cause poisoning"
+	page "persino le sue"
+	next "impronte"
+	next "sono velenose."
 	dex
 
 _KinglerDexEntry::
-	text "Its large and"
-	next "hard pincer has"
-	next "10,000-horsepower"
+	text "Le enormi chele"
+	next "hanno una potenza"
+	next "distruttrice di"
 
-	page "strength. However,"
-	next "being so big it is"
-	next "unwieldy to move"
+	page "10000 cv, ma sono"
+	next "troppo grandi e"
+	next "poco maneggevoli."
 	dex
 
 _CloysterDexEntry::
-	text "Its shell is quite"
-	next "hard. It cannot be"
-	next "shattered, even"
+	text "Se attaccato,"
+	next "scaglia rapide"
+	next "raffiche di"
 
-	page "with a bomb. The"
-	next "shell opens only"
-	next "when attacking"
+	page "corna. Non è"
+	next "mai stato visto"
+	next "internamente."
 	dex
 
 _ElectrodeDexEntry::
-	text "It explodes in"
-	next "response to even"
-	next "minor stimuli. It"
+	text "Accumula energia"
+	next "elettrica ad alta"
+	next "pressione."
 
-	page "is feared, with"
-	next "the nickname of"
-	next "The Bomb Ball"
+	page "Può esplodere"
+	next "alla minima"
+	next "provocazione."
 	dex
 
 _ClefableDexEntry::
-	text "It has an acute"
-	next "sense of hearing."
-	next "It can easily hear"
+	text "Timido #MON"
+	next "fata molto raro a"
+	next "vedersi. Scappa e"
 
-	page "a pin being"
-	next "dropped nearly"
-	next "1,100 yards away"
+	page "si nasconde non"
+	next "appena avverte la"
+	next "presenza umana."
 	dex
 
 _WeezingDexEntry::
-	text "Very rarely, a"
-	next "sudden mutation"
-	next "can result in two"
+	text "Dove 2 tipi di"
+	next "gas velenosi"
+	next "si incontrano,"
 
-	page "small KOFFING"
-	next "twins becoming"
-	next "a WEEZING"
+	page "2 KOFFING"
+	next "possono fondersi"
+	next "in un WEEZING."
 	dex
 
 _PersianDexEntry::
-	text "Has a vicious"
-	next "temper. Beware if"
-	next "it raises its tail"
+	text "Sebbene molto"
+	next "amato per il suo"
+	next "pelo, è difficile"
 
-	page "straight up. It is"
-	next "a signal that its"
-	next "about to pounce"
+	page "addomesticarlo"
+	next "per la volubile"
+	next "crudeltà."
 	dex
 
 _MarowakDexEntry::
-	text "Its small and was"
-	next "originally very"
-	next "weak. Its temper"
+	text "L'osso che"
+	next "impugna è la sua"
+	next "arma. Lo scaglia"
 
-	page "turned ferocious"
-	next "when it began"
-	next "using bones"
+	page "come un boomerang"
+	next "per mettere KO i"
+	next "suoi avversari."
 	dex
 
 _HaunterDexEntry::
-	text "If you get the"
-	next "feeling of being"
-	next "watched in dark-"
+	text "Per l'abilità di"
+	next "sgattaiolare via"
+	next "attraverso i muri"
 
-	page "ness when nobody"
-	next "is around, HAUNTER"
-	next "is there"
+	page "si pensa venga"
+	next "da un'altra"
+	next "dimensione."
 	dex
 
 _AbraDexEntry::
-	text "It sleeps for 18"
-	next "hours a day. It"
-	next "uses a variety of"
+	text "Con la capacità"
+	next "di leggere nella"
+	next "mente, prevede i"
 
-	page "extrasensory"
-	next "powers even"
-	next "while asleep"
+	page "pericoli e si"
+	next "TELETRASPORTA in"
+	next "un luogo sicuro."
 	dex
 
 _AlakazamDexEntry::
-	text "It does not like"
-	next "physical attacks."
-	next "Instead, it free-"
+	text "Il suo cervello"
+	next "può superare un"
+	next "supercomputer."
 
-	page "ly uses extra-"
-	next "sensory powers to"
-	next "defeat foes"
+	page "Il suo quoziente"
+	next "intellettivo"
+	next "è di 5000."
 	dex
 
 _PidgeottoDexEntry::
-	text "The claws on its"
-	next "feet are well de-"
-	next "veloped. It can"
+	text "Strenuo difensore"
+	next "del suo ampio"
+	next "territorio, becca"
 
-	page "carry prey such as"
-	next "an EXEGGCUTE over"
-	next "60 miles away"
+	page "ferocemente"
+	next "ogni intruso."
+
 	dex
 
 _PidgeotDexEntry::
-	text "It spreads its"
-	next "gorgeous wings"
-	next "wide to intimidate"
+	text "Quando caccia,"
+	next "vola velocissimo"
+	next "sul pelo dell'"
 
-	page "enemies. It races"
-	next "through the skies"
-	next "at Mach-2 speed"
+	page "acqua e cattura"
+	next "ignare prede"
+	next "come MAGIKARP."
 	dex
 
 _StarmieDexEntry::
-	text "This #MON has a"
-	next "geometric body."
-	next "Because of its"
+	text "Nel suo nucleo"
+	next "brillano i 7"
+	next "colori dell'arco-"
 
-	page "body, some suspect"
-	next "that it is an"
-	next "alien creature"
+	page "baleno. Qualcuno"
+	next "lo considera una"
+	next "pietra preziosa."
 	dex
 
 _BulbasaurDexEntry::
-	text "There is a plant"
-	next "seed on its back"
-	next "right from the day"
+	text "Un seme raro gli"
+	next "è stato piantato"
+	next "sulla schiena"
 
-	page "this #MON is"
-	next "born. It slowly"
-	next "grows larger"
+	page "alla nascita. La"
+	next "pianta sboccia e"
+	next "cresce con lui."
 	dex
 
 _VenusaurDexEntry::
-	text "A bewitching aroma"
-	next "wafts from its"
-	next "flower. The"
+	text "La pianta fiori-"
+	next "sce assorbendo"
+	next "energia solare."
 
-	page "fragrance becalms"
-	next "those engaged"
-	next "in a battle"
+	page "È sempre in"
+	next "movimento in"
+	next "cerca di luce."
 	dex
 
 _TentacruelDexEntry::
-	text "Its 80 tentacles"
-	next "that move about"
-	next "freely. They can"
+	text "I corti tentacoli"
+	next "si estendono"
+	next "durante la caccia"
 
-	page "sting, causing"
-	next "poisoning and"
-	next "sharp pain"
+	page "per catturare e"
+	next "immobilizzare"
+	next "la preda."
 	dex
 
 _GoldeenDexEntry::
-	text "Its dorsal and"
-	next "pectoral fins are"
-	next "strongly developed"
+	text "La pinna sulla"
+	next "coda si gonfia"
+	next "come un elegante"
 
-	page "like muscles. It"
-	next "can swim at speeds"
-	next "of five knots"
+	page "vestito da ballo,"
+	next "da cui il nome"
+	next "Regina d'Acqua."
 	dex
 
 _SeakingDexEntry::
-	text "The horn on its"
-	next "head is sharp like"
-	next "a drill. It bores"
+	text "In autunno quando"
+	next "si riproduce, può"
+	next "essere visto"
 
-	page "a hole in a"
-	next "boulder to make"
-	next "its nest"
+	page "risalire"
+	next "impetuoso fiumi"
+	next "e torrenti."
 	dex
 
 _PonytaDexEntry::
-	text "Its body is light,"
-	next "and its legs are"
-	next "incredibly power-"
+	text "Un suo zoccolo è"
+	next "10 volte più duro"
+	next "del diamante."
 
-	page "ful. It can clear"
-	next "Ayers Rock in"
-	next "one leap"
+	page "Può schiacciare"
+	next "qualsiasi cosa in"
+	next "pochissimo tempo."
 	dex
 
 _RapidashDexEntry::
-	text "It can gallop at"
-	next "a top speed of"
-	next "150 mph. It can"
+	text "#MON molto"
+	next "competitivo"
+	next "rincorre tutto"
 
-	page "race as fast as"
-	next "a bullet train"
-	next "while ablaze"
+	page "ciò che si muove"
+	next "veloce, sperando"
+	next "di superarlo."
 	dex
 
 _RattataDexEntry::
-	text "Its fangs are long"
-	next "and very sharp."
-	next "They grow continu-"
+	text "Quando attacca"
+	next "morde tutto."
+	next "Piccolo e veloce"
 
-	page "ously, so it gnaws"
-	next "on hard things to"
-	next "whittle them down"
+	page "si vede"
+	next "comunemente"
+	next "in molti luoghi."
 	dex
 
 _RaticateDexEntry::
-	text "Its rear feet have"
-	next "three toes each."
-	next "They are webbed,"
+	text "Usa i baffi per"
+	next "mantenersi"
+	next "in equilibrio."
 
-	page "enabling it"
-	next "to swim across"
-	next "rivers"
+	page "Sembra diventare"
+	next "più lento se gli"
+	next "vengono tagliati."
 	dex
 
 _NidorinoDexEntry::
-	text "It is easily"
-	next "angered. By swing-"
-	next "ing its well-"
+	text "#MON aggressivo"
+	next "sempre pronto"
+	next "all'attacco,"
 
-	page "developed horn,"
-	next "it can even punch"
-	next "through diamond"
+	page "secerne un veleno"
+	next "potente dal corno"
+	next "sulla testa."
 	dex
 
 _NidorinaDexEntry::
-	text "The female has a"
-	next "gentle temper. It"
-	next "emits ultrasonic"
+	text "Il corno della"
+	next "femmina cresce"
+	next "lentamente."
 
-	page "cries that have"
-	next "the power to"
-	next "befuddle foes"
+	page "Ama gli attacchi"
+	next "fisici come"
+	next "graffi e morsi."
 	dex
 
 _GeodudeDexEntry::
-	text "Its round form"
-	next "makes it easy to"
-	next "pick up. Some have"
+	text "Trovato nei campi"
+	next "e in montagna."
+	next "Se confuso con"
 
-	page "used them to hurl"
-	next "at others in a"
-	next "snowball fight"
+	page "una roccia, può"
+	next "succedere di"
+	next "inciamparvi."
 	dex
 
 _PorygonDexEntry::
-	text "Using advanced"
-	next "technologies,"
-	next "humans succeeded"
+	text "Formato per"
+	next "intero da codici"
+	next "programmatici"
 
-	page "in making the"
-	next "first artificial"
-	next "#MON"
+	page "può muoversi"
+	next "liberamente"
+	next "nel ciberspazio."
 	dex
 
 _AerodactylDexEntry::
-	text "It was regenerated"
-	next "from a dinosaur's"
-	next "DNA that was found"
+	text "Preistorico e"
+	next "feroce, attacca"
+	next "il nemico alla"
 
-	page "in amber. It flies"
-	next "with high-pitched"
-	next "cries"
+	page "gola con le sue"
+	next "zanne affilate"
+	next "come una sega."
 	dex
 
 _MagnemiteDexEntry::
-	text "It moves while"
-	next "hovering. It"
-	next "discharges THUNDER"
+	text "Usa l'antigravità"
+	next "per mantenersi in"
+	next "aria. Compare"
 
-	page "WAVE and so on"
-	next "from the units"
-	next "at its sides"
+	page "senza preavviso"
+	next "usando TUONONDA"
+	next "e mosse simili."
 	dex
 
 _CharmanderDexEntry::
-	text "From the time it"
-	next "is born, a flame"
-	next "burns at the tip"
+	text "Ama i luoghi"
+	next "caldi. Si dice"
+	next "che quando piove"
 
-	page "of its tail. Its"
-	next "life would end if"
-	next "the flame died"
+	page "gli esca vapore"
+	next "dalla punta"
+	next "della coda."
 	dex
 
 _SquirtleDexEntry::
-	text "When it retracts"
-	next "its long neck into"
-	next "its shell, it"
+	text "Dopo la nascita"
+	next "la schiena gli si"
+	next "trasforma in una"
 
-	page "squirts out water"
-	next "with vigorous"
-	next "force"
-	dex 
+	page "conchiglia. Sputa"
+	next "potente schiuma"
+	next "dalla bocca."
+	dex
 
 _CharmeleonDexEntry::
-	text "It lashes about"
-	next "with its tail to"
-	next "knock down its foe"
+	text "Quando agita"
+	next "la sua coda"
+	next "infuocata porta"
 
-	page "then tears up the"
-	next "fallen opponent"
-	next "with sharp claws"
+	page "la temperatura"
+	next "a livelli"
+	next "insostenibili."
 	dex
 
 _WartortleDexEntry::
-	text "This #MON is"
-	next "very popular as a"
-	next "pet. Its fur-"
+	text "Nascosto in acqua"
+	next "si avvicina alla"
+	next "preda ignara."
 
-	page "covered tail is a"
-	next "symbol of its"
-	next "longevity"
+	page "Nuota veloce e"
+	next "muove le orecchie"
+	next "per bilanciarsi."
 	dex
 
 _CharizardDexEntry::
-	text "Its wings can lift"
-	next "this #MON close"
-	next "to an altitude of"
+	text "Sputa fuoco in"
+	next "grado di fondere"
+	next "le rocce. Causa"
 
-	page "4,600 feet. It"
-	next "blows out fire at"
-	next "high temperatures"
+	page "incendi boschivi"
+	next "senza averne"
+	next "l'intenzione."
 	dex
 
 _OddishDexEntry::
-	text "Its scientific"
-	next "name is Oddium"
-	next "Wanderus. At night"
+	text "Di giorno tiene"
+	next "la testa sotto"
+	next "terra. Di notte"
 
-	page "it is said to walk"
-	next "nearly 1,000 feet"
-	next "on its two roots"
+	page "vaga spargendo"
+	next "le sue sementi."
+
 	dex
 
 _GloomDexEntry::
-	text "Its pistils exude"
-	next "an incredibly foul"
-	next "odor. The horrid"
+	text "Il fluido che gli"
+	next "esce dalla bocca"
+	next "non è bava. È un"
 
-	page "stench can cause"
-	next "fainting from"
-	next "1.25 miles away"
+	page "nettare usato"
+	next "per attirare"
+	next "le prede."
 	dex
 
 _VileplumeDexEntry::
-	text "Its petals are the"
-	next "largest in the"
-	next "world. It fiend-"
+	text "Più sono grandi i"
+	next "petali, più sarà"
+	next "il polline tossi-"
 
-	page "ishly scatters"
-	next "allergy-causing"
-	next "pollen"
+	page "co contenuto."
+	next "Fatica a reggere"
+	next "la testa pesante."
 	dex
 
 _BellsproutDexEntry::
-	text "Its bud looks like"
-	next "a human face."
-	next "Because of the"
+	text "#MON carnivoro"
+	next "che caccia e si"
+	next "nutre di insetti."
 
-	page "bud, it is rumored"
-	next "to be a type of"
-	next "mystical mandrake"
+	page "Usa le radici"
+	next "per assorbire"
+	next "l'umidità."
 	dex
 
 _WeepinbellDexEntry::
-	text "The leafy parts"
-	next "act as cutters for"
-	next "slashing foes. It"
+	text "Sputa VELEN-"
+	next "POLVERE per"
+	next "immobilizzare il"
 
-	page "spits a fluid"
-	next "that dissolves"
-	next "everything"
+	page "nemico e poi lo"
+	next "finisce con"
+	next "il suo ACIDO."
 	dex
 
 _VictreebelDexEntry::
-	text "Lures prey into"
-	next "its mouth with a"
-	next "honeylike aroma."
+	text "Vive in grandi"
+	next "colonie nel cuore"
+	next "della giungla,"
 
-	page "The helpless prey"
-	next "is melted with a"
-	next "dissolving fluid"
+	page "ma nessuno è mai"
+	next "tornato da lì per"
+	next "raccontarlo."
 	dex

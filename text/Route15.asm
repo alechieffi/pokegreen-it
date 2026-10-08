@@ -1,172 +1,175 @@
 _Route15CooltrainerF1BattleText::
-	text "Let me try out the"
-	line "#MON I just"
-	cont "got in a trade!"
+	text "Voglio provare i"
+	line "#MON che ho"
+	cont "appena scambiato!"
 	done
 
 _Route15CooltrainerF1EndBattleText::
-	text "Not"
-	line "good enough!"
+	text_start
+	line "Ancora non va!"
 	prompt
 
 _Route15CooltrainerF1AfterBattleText::
-	text "You can't change"
-	line "the nickname of"
-	cont "any #MON you"
-	cont "get in a trade."
+	text "Non puoi cambiare"
+	line "il soprannome dei"
+	cont "#MON che hai"
+	cont "scambiato."
 
-	para "Only the Original"
-	line "Trainer can."
+	para "Può farlo solo l'"
+	line "Allenatore Orig.!"
 	done
 
 _Route15CooltrainerF2BattleText::
-	text "You look gentle,"
-	line "so I think I can"
-	cont "beat you!"
+	text "Sembri debole!"
+	line "Penso di poterti"
+	cont "vincere!"
 	done
 
 _Route15CooltrainerF2EndBattleText::
 	text "No,"
-	line "wrong!"
+	line "mi sbagliavo!"
 	prompt
 
 _Route15CooltrainerF2AfterBattleText::
-	text "I'm afraid of"
-	line "BIKERs, they look"
-	cont "so ugly and mean!"
+	text "I CENTAURI mi"
+	line "fanno paura, sono"
+	cont "brutti e cattivi!"
 	done
 
 _Route15CooltrainerM1BattleText::
-	text "When I whistle, I"
-	line "can summon bird"
-	cont "#MON!"
+	text "Quando fischio i"
+	line "#MON uccello"
+	cont "vengono da me!"
 	done
 
 _Route15CooltrainerM1EndBattleText::
-	text "Ow!"
-	line "That's tragic!"
+	text "Ooh!"
+	line "Che tragedia!"
 	prompt
 
 _Route15CooltrainerM1AfterBattleText::
-	text "Maybe I'm not cut"
-	line "out for battles."
+	text "Forse la lotta"
+	line "non fa per me!"
 	done
 
 _Route15CooltrainerM2BattleText::
-	text "Hmm? My birds are"
-	line "shivering! You're"
-	cont "good, aren't you?"
+	text "I miei uccellini"
+	line "tremano di paura!"
+	cont "Sei forte, vero?"
 	done
 
 _Route15CooltrainerM2EndBattleText::
-	text "Just"
-	line "as I thought!"
+	text "Sì,"
+	line "proprio come"
+	cont "pensavo!"
 	prompt
 
 _Route15CooltrainerM2AfterBattleText::
-	text "Did you know moves"
-	line "like EARTHQUAKE"
-	cont "don't have any"
-	cont "effect on birds?"
+	text "Sapevi che mosse"
+	line "come TERREMOTO"
+	cont "non hanno effetto"
+	cont "sui #MON di"
+	cont "tipo uccello?"
 	done
 
 _Route15Beauty1BattleText::
-	text "Oh, you're a"
-	line "little cutie!"
+	text "Oh! Sei un tipo"
+	line "carino!"
 	done
 
 _Route15Beauty1EndBattleText::
-	text "You looked"
-	line "so cute too!"
+	text_start
+	line "Sembravi un tipo"
+	cont "così carino!"
 	prompt
 
 _Route15Beauty1AfterBattleText::
-	text "I forgive you!"
-	line "I can take it!"
+	text "Ti perdono!"
+	line "Non me la prendo!"
 	done
 
 _Route15Beauty2BattleText::
-	text "I raise #MON"
-	line "because I live"
-	cont "alone!"
+	text "Allevo #MON"
+	line "perché vivo sola!"
 	done
 
 _Route15Beauty2EndBattleText::
-	text "I didn't"
-	line "ask for this!"
+	text "Non ci"
+	line "voleva proprio!"
 	prompt
 
 _Route15Beauty2AfterBattleText::
-	text "I just like going"
-	line "home to be with"
-	cont "my #MON!"
+	text "Voglio andare a"
+	line "casa per stare"
+	cont "coi miei #MON!"
 	done
 
 _Route15Biker1BattleText::
-	text "Hey kid! C'mon!"
-	line "I just got these!"
+	text "Ehi tu! Coraggio!"
+	line "Guarda cos'ho!"
 	done
 
 _Route15Biker1EndBattleText::
-	text "Why"
-	line "not?"
+	text_start
+	line "Perché no?"
 	prompt
 
 _Route15Biker1AfterBattleText::
-	text "You only live"
-	line "once, so I live"
-	cont "as an outlaw!"
-	cont "TEAM ROCKET RULES!"
+	text "Si vive una volta"
+	line "sola e io vivo da"
+	cont "fuorilegge! È lo"
+	cont "spirito di"
+	cont "TEAM ROCKET!"
 	done
 
 _Route15Biker2BattleText::
-	text "Fork over all your"
-	line "cash when you"
-	cont "lose to me, kid!"
+	text "O la borsa,"
+	line "o la vita!"
 	done
 
 _Route15Biker2EndBattleText::
-	text "That"
-	line "can't be true!"
+	text "Non"
+	line "può essere!"
 	prompt
 
 _Route15Biker2AfterBattleText::
-	text "I was just joking"
-	line "about the money!"
+	text "Quella sulla borsa"
+	line "era una battuta!"
 	done
 
 _Route15CooltrainerF3BattleText::
-	text "What's cool?"
-	line "Trading #MON!"
+	text "Cos'è bello?"
+	line "Scambiar #MON!"
 	done
 
 _Route15CooltrainerF3EndBattleText::
-	text "I"
-	line "said trade!"
+	text "Ho"
+	line "detto scambiare!"
 	prompt
 
 _Route15CooltrainerF3AfterBattleText::
-	text "I trade #MON"
-	line "with my friends!"
+	text "Scambio #MON"
+	line "con gli amici!"
 	done
 
 _Route15CooltrainerF4BattleText::
-	text "Want to play with"
-	line "my #MON?"
+	text "Vuoi giocare con"
+	line "i miei #MON?"
 	done
 
 _Route15CooltrainerF4EndBattleText::
-	text "I was"
-	line "too impatient!"
+	text "Ho"
+	line "avuto poca"
+	cont "pazienza!"
 	prompt
 
 _Route15CooltrainerF4AfterBattleText::
-	text "I'll go train with"
-	line "weaker people.@"
+	text "Mi allenerò con"
+	line "i più deboli!@"
 	text_end
 
 _Route15SignText::
-	text "ROUTE 15"
-	line "West to FUCHSIA"
-	cont "CITY"
+	text "PERCORSO 15"
+	line "FUCSIAPOLI"
+	cont "a Ovest"
 	done

@@ -1,231 +1,242 @@
 _PokemartGreetingText::
-	text "Hi there!"
-	next "May I help you?"
+	text "Salve! Posso"
+	next "essere d'aiuto?"
 	done
 
 _PokemonFaintedText::
 	text_ram wNameBuffer
 	text_start
-	line "fainted!"
+	line "esausto!"
 	done
 
 _PlayerBlackedOutText::
-	text "<PLAYER> is out of"
-	line "useable #MON!"
+	text "<PLAYER> non ha più"
+	line "#MON utili!"
 
-	para "<PLAYER> blacked"
-	line "out!"
+
+	para "<PLAYER> è"
+	line "fuori gioco!"
 	prompt
 
 _RepelWoreOffText::
-	text "REPEL's effect"
-	line "wore off."
+	text "Finito l'effetto"
+	line "del REPELLENTE."
+
 	done
 
 _PokemartBuyingGreetingText::
-	text "Take your time."
+	text "Scegli con comodo."
 	done
 
 _PokemartTellBuyPriceText::
+
 	text_ram wStringBuffer
 	text "?"
-	line "That will be"
-	cont "¥@"
+	line "In tutto fa"
+	cont "$@"
 	text_bcd hMoney, 3 | LEADING_ZEROES | LEFT_ALIGN
 	text ". OK?"
 	done
 
 _PokemartBoughtItemText::
-	text "Here you are!"
-	line "Thank you!"
+	text "Ecco a te! Grazie!"
+
 	prompt
 
 _PokemartNotEnoughMoneyText::
-	text "You don't have"
-	line "enough money."
+	text "Non hai"
+	line "abbastanza soldi."
 	prompt
 
 _PokemartItemBagFullText::
-	text "You can't carry"
-	line "any more items."
+	text "Non puoi portare"
+	line "altri strumenti."
 	prompt
 
 _PokemonSellingGreetingText::
-	text "What would you"
-	line "like to sell?"
+	text "Cosa vuoi vendere?"
+
 	done
 
 _PokemartTellSellPriceText::
-	text "I can pay you"
-	line "¥@"
+	text "Posso darti"
+	line "$@"
 	text_bcd hMoney, 3 | LEADING_ZEROES | LEFT_ALIGN
-	text " for that."
+	text "."
 	done
 
 _PokemartItemBagEmptyText::
-	text "You don't have"
-	line "anything to sell."
+	text "Non hai niente da"
+	line "vendere."
 	prompt
 
 _PokemartUnsellableItemText::
-	text "I can't put a"
-	line "price on that."
+	text "Non posso dare un"
+	line "prezzo a questo."
 	prompt
 
 _PokemartThankYouText::
-	text "Thank you!"
+	text "Grazie!"
 	done
 
 _PokemartAnythingElseText::
-	text "Is there anything"
-	line "else I can do?"
+	text "Desideri altro?"
+
 	done
 
 _LearnedMove1Text::
+	
 	text_ram wLearnMoveMonName
-	text " learned"
+	text " impara"
 	line "@"
+
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _WhichMoveToForgetText::
-	text "Which move should"
-	next "be forgotten?"
+	text "Quale mossa deve"
+	next "dimenticare?"
 	done
 
 _AbandonLearningText::
-	text "Abandon learning"
+	text "Stop apprendimento"
 	line "@"
 	text_ram wStringBuffer
 	text "?"
 	done
 
 _DidNotLearnText::
+
 	text_ram wLearnMoveMonName
 	text_start
-	line "did not learn"
+	line "non ha appreso"
 	cont "@"
 	text_ram wStringBuffer
 	text "!"
 	prompt
 
 _TryingToLearnText::
+
 	text_ram wLearnMoveMonName
-	text " is"
-	line "trying to learn"
+	text_start
+	line "cerca di imparare"
 	cont "@"
 	text_ram wStringBuffer
 	text "!"
 
-	para "But, @"
+	para "Ma @"
 	text_ram wLearnMoveMonName
-	text_start
-	line "can't learn more"
-	cont "than 4 moves!"
+	text " non"
+	line "può imparare più"
+	cont "di 4 mosse!"
 
-	para "Delete an older"
-	line "move to make room"
-	cont "for @"
+	para "Eliminare una"
+	line "vecchia mossa"
+	cont "per far spazio a"
+	cont "@"
 	text_ram wStringBuffer
 	text "?"
 	done
 
 _OneTwoAndText::
-	text "1, 2 and...@"
+	text "1, 2 e...@"
 	text_end
 
 _PoofText::
-	text " Poof!@"
+	text "...puff!@"
 	text_end
 
 _ForgotAndText::
 	text_start
 	para "@"
+	
 	text_ram wLearnMoveMonName
-	text " forgot"
+	text " scorda"
 	line "@"
 	text_ram wNameBuffer
 	text "!"
 
-	para "And..."
+	para "E..."
 	prompt
 
 _HMCantDeleteText::
-	text "HM techniques"
-	line "can't be deleted!"
+	text "Le MN non sono"
+	line "eliminabili!"
+
 	prompt
 
 _PokemonCenterWelcomeText::
-	text "Welcome to our"
-	line "#MON CENTER!"
+	text "Benvenuto al"
+	line "CENTRO #MON!"
 
-	para "We heal your"
-	line "#MON back to"
-	cont "perfect health!"
+
+	para "Rimettiamo in"
+	line "sesto i tuoi"
+	cont "#MON!"
 	prompt
 
 _ShallWeHealYourPokemonText::
-	text "Shall we heal your"
-	line "#MON?"
+	text "Vuoi che guariamo"
+	line "anche i tuoi?"
 	done
 
 _NeedYourPokemonText::
-	text "OK. We'll need"
-	line "your #MON."
+	text "Benissimo. Allora"
+	line "dammeli!"
 	done
 
 _PokemonFightingFitText::
-	text "Thank you!"
-	line "Your #MON are"
-	cont "fighting fit!"
+	text "Grazie! I tuoi"
+	line "#MON sono in"
+	cont "perfetta forma!"
 	prompt
 
 _PokemonCenterFarewellText::
-	text "We hope to see"
-	line "you again!"
+	text "Arrivederci!"
+
 	done
 
 _CableClubNPCAreaReservedFor2FriendsLinkedByCableText::
-	text "This area is"
-	line "reserved for 2"
-	cont "friends who are"
-	cont "linked by cable."
+	text "Quest'area è"
+	line "riservata a 2"
+	cont "amici collegati"
+	cont "via cavo."
 	done
 
 _CableClubNPCWelcomeText::
-	text "Welcome to the"
-	line "Cable Club!"
+	text "Benvenuti al"
+	line "Club Via Cavo!"
 	done
 
 _CableClubNPCPleaseApplyHereHaveToSaveText::
-	text "Please apply here."
+	text "Per favore,"
+	line "iscrivetevi!"
 
-	para "Before opening"
-	line "the link, we have"
-	cont "to save the game."
+	para "Bisogna salvare il"
+	line "gioco prima del"
+	cont "collegamento."
 	done
 
 _CableClubNPCPleaseWaitText::
-	text "Please wait.@"
+	text "Attendere prego.@"
 	text_end
 
 _CableClubNPCLinkClosedBecauseOfInactivityText::
 	vc_patch Change_link_closed_inactivity_message
 IF DEF(_RED_VC) || DEF(_BLUE_VC)
-	text "Please come again!"
+	text "Arrivederci!"
+
 	done
-	text_start
-	db   "osed because of"
-	cont "inactivity."
+	db "<NULL>tividad."
 ELSE
-	text "The link has been"
-	line "closed because of"
-	cont "inactivity."
+	text "Collegamento"
+	line "interrotto per"
+	cont "inattività."
 ENDC
 	vc_patch_end
 
-	para "Please contact"
-	line "your friend and"
-	cont "come again!"
+	para "Contatta il tuo"
+	line "amico e provate"
+	cont "un'altra volta!"
 	done

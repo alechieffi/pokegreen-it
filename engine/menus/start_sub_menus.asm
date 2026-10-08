@@ -347,7 +347,7 @@ StartMenu_Item::
 	ld hl, wTopMenuItemY
 	ld a, 11
 	ld [hli], a ; top menu item Y
-	ld a, 14
+	ld a, 13
 	ld [hli], a ; top menu item X
 	xor a
 	ld [hli], a ; current menu item ID
@@ -552,7 +552,7 @@ DrawTrainerInfo:
 	call PlaceString
 	hlcoord 8, 4
 	ld de, wPlayerMoney
-	ld c, 3 | LEADING_ZEROES | LEFT_ALIGN | MONEY_SIGN
+	ld c, $E3 | LEADING_ZEROES | LEFT_ALIGN | MONEY_SIGN
 	call PrintBCDNumber
 	hlcoord 9, 6
 	ld de, wPlayTimeHours
@@ -569,13 +569,13 @@ TrainerInfo_FarCopyData:
 	jp FarCopyData2
 
 TrainerInfo_NameMoneyTimeText:
-	db   "NAME/"
-	next "MONEY/"
-	next "TIME/@"
+	db   "NOME/"
+	next "SOLDI/"
+	next "TEMPO/@"
 
 ; $76 is a circle tile
 TrainerInfo_BadgesText:
-	db $76,"BADGES",$76,"@"
+	db $76,"MEDAGLIE",$76,"@"
 
 ; draws a text box on the trainer info screen
 ; height is always 6

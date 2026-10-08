@@ -1,74 +1,74 @@
 _RocketHideoutB1FRocket5EndBattleText::
-	text "Why...?@"
+	text "Perché?@"
 	text_end
 
 _RocketHideoutB1FRocket1BattleText::
-	text "Who are you? How"
-	line "did you get here?"
+	text "Chi sei? Come"
+	line "sei arrivato qui?"
 	done
 
 _RocketHideoutB1FRocket1EndBattleText::
-	text "Oww!"
-	line "Beaten!"
+	text "Ahi!"
+	line "Colpito!"
 	prompt
 
 _RocketHideoutB1FRocket1AfterBattleText::
-	text "Are you dissing"
+	text "Sfiderai"
 	line "TEAM ROCKET?"
 	done
 
 _RocketHideoutB1FRocket2BattleText::
-	text "You broke into"
-	line "our operation?"
+	text "Hai rovinato"
+	line "i nostri piani!"
 	done
 
 _RocketHideoutB1FRocket2EndBattleText::
-	text "Burnt!"
+	text_start
+	line "È finita!"
 	prompt
 
 _RocketHideoutB1FRocket2AfterBattleText::
-	text "You're not going"
-	line "to get away with"
-	cont "this, brat!"
+	text "Non la passerai"
+	line "liscia, pulce!"
 	done
 
 _RocketHideoutB1FRocket3BattleText::
-	text "Intruder alert!"
+	text "Allarme! "
+	line "Intrusione!"
 	done
 
 _RocketHideoutB1FRocket3EndBattleText::
-	text "I"
-	line "can't do it!"
+	text "Non ce"
+	line "la faccio!!!"
 	prompt
 
 _RocketHideoutB1FRocket3AfterBattleText::
-	text "SILPH SCOPE?"
-	line "I don't know"
-	cont "where it is!"
+	text "La SPETTROSONDA?"
+	line "Non so dove sia!"
 	done
 
 _RocketHideoutB1FRocket4BattleText::
-	text "Why did you come"
-	line "here?"
+	text "Cosa fai qui?"
 	done
 
 _RocketHideoutB1FRocket4EndBattleText::
-	text "This"
-	line "won't do!"
+	text "Niente"
+	line "da fare!"
 	prompt
 
 _RocketHideoutB1FRocket4AfterBattleText::
-	text "OK, I'll talk!"
-	line "Take the elevator"
-	cont "to see my BOSS!"
+	text "Bene, parlerò!"
+	line "Se vuoi vedere"
+	cont "il CAPO, prendi"
+	cont "l'ascensore!"
 	done
 
 _RocketHideoutB1FRocket5BattleText::
-	text "Are you lost, you"
-	line "little rat?"
+	text "Ti sei perso,"
+	line "piccola peste?"
 	done
 
 _RocketHideoutB1FRocket5AfterBattleText::
-	text "Uh-oh, that fight"
-	line "opened the door!"
+	text "Oh! La lotta ha"
+	line "aperto la porta!"
 	done

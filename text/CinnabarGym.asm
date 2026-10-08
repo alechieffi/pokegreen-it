@@ -1,50 +1,51 @@
 _CinnabarGymBlainePreBattleText::
-	text "Hah!"
+	text "Ehi!"
 
-	para "I am BLAINE! I"
-	line "am the LEADER of"
-	cont "CINNABAR GYM!"
+	para "Sono BLAINE, il"
+	line "CAPOPALESTRA di"
+	cont "CANNELLA!"
 
-	para "My fiery #MON"
-	line "will incinerate"
-	cont "all challengers!"
+	para "I miei #MON"
+	line "inceneriranno"
+	cont "ogni sfidante!"
 
-	para "Hah! You better"
-	line "have BURN HEAL!"
+	para "Procurati"
+	line "l'ANTISCOTTATURA!"
 	done
 
 _CinnabarGymBlaineReceivedVolcanoBadgeText::
-	text "I have"
-	line "burnt out!"
+	text "Mi hai"
+	line "incenerito!"
 
-	para "You have earned"
-	line "the VOLCANOBADGE!@"
+	para "Ti sei meritato la"
+	line "MEDAGLIA VULCANO!@"
 	text_end
 
 _CinnabarGymBlainePostBattleAdviceText::
-	text "FIRE BLAST is the"
-	line "ultimate fire"
-	cont "technique!"
+	text "FUOCOBOMBA è la"
+	line "massima tecnica"
+	cont "del fuoco!"
 
-	para "Don't waste it on"
-	line "water #MON!"
+	para "Non sprecarla sui"
+	line "#MON d'acqua!"
 	done
 
 _CinnabarGymBlaineVolcanoBadgeInfoText::
-	text "Hah!"
+	text "Ehi!"
 
-	para "The VOLCANOBADGE"
-	line "heightens the"
-	cont "SPECIAL abilities"
-	cont "of your #MON!"
+	para "La MEDAGLIA"
+	line "VULCANO migliora"
+	cont "le capacità"
+	cont "SPECIALI dei"
+	cont "tuoi #MON!"
 
-	para "Here, you can"
-	line "have this too!"
+	para "Prendi anche"
+	line "questo!"
 	done
 
 _CinnabarGymBlaineReceivedTM38Text::
-	text "<PLAYER> received"
-	line "@"
+	text "<PLAYER> riceve"
+	line "la @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -52,161 +53,172 @@ _CinnabarGymBlaineReceivedTM38Text::
 _CinnabarGymBlaineTM38ExplanationText::
 	text_start
 
-	para "TM38 contains"
-	line "FIRE BLAST!"
+	para "La MT38 contiene"
+	line "FUOCOBOMBA!"
 
-	para "Teach it to fire-"
-	line "type #MON!"
+	para "Insegnala ai"
+	line "#MON di tipo"
+	cont "fuoco!"
 
-	para "CHARMELEON or"
-	line "PONYTA would be"
-	cont "good bets!"
+	para "CHARMELEON e"
+	line "PONYTA sono"
+	cont "i più adatti!"
 	done
 
 _CinnabarGymBlaineTM38NoRoomText::
-	text "Make room for my"
-	line "gift!"
+	text "Fai spazio per"
+	line "il mio regalo!"
 	done
 
 _CinnabarGymSuperNerd1BattleText::
-	text "Do you know how"
-	line "hot #MON fire"
-	cont "breath can get?"
+	text "Sai quanto caldo"
+	line "può diventare il"
+	cont "fiato dei #MON"
+	cont "di tipo fuoco?"
 	done
 
 _CinnabarGymSuperNerd1EndBattleText::
-	text "Yow!"
-	line "Hot, hot, hot!"
+	text "Caldo!"
+	line "Caldissimo!"
 	prompt
 
 _CinnabarGymSuperNerd1AfterBattleText::
-	text "Fire, or to be"
-	line "more precise,"
-	cont "combustion..."
+	text "Fuoco, o per la"
+	line "precisione,"
+	cont "combustione..."
 
-	para "Blah, blah, blah,"
-	line "blah..."
+	para "Bla, bla, bla,"
+	line "bla..."
 	done
 
 _CinnabarGymSuperNerd2BattleText::
-	text "I was a thief, but"
-	line "I became straight"
-	cont "as a trainer!"
+	text "Ero un ladro ma"
+	line "sono diventato un"
+	cont "bravo ALLENATORE!"
 	done
 
 _CinnabarGymSuperNerd2EndBattleText::
-	text "I"
-	line "surrender!"
+	text_start
+	line "Mi arrendo!"
 	prompt
 
 _CinnabarGymSuperNerd2AfterBattleText::
-	text "I can't help"
-	line "stealing other"
-	cont "people's #MON!"
+	text "Non posso fare a"
+	line "meno di rubare i"
+	cont "#MON altrui!"
 	done
 
 _CinnabarGymSuperNerd3BattleText::
-	text "You can't win!"
-	line "I have studied"
-	cont "#MON totally!"
+	text "Non puoi vincere!"
+	line "Ho studiato molto"
+	cont "i #MON!"
 	done
 
 _CinnabarGymSuperNerd3EndBattleText::
-	text "Waah!"
-	line "My studies!"
+	text "Bleeh!"
+	line "I miei studi..."
 	prompt
 
 _CinnabarGymSuperNerd3AfterBattleText::
-	text "My theories are"
-	line "too complicated"
-	cont "for you!"
+	text "Le mie teorie sono"
+	line "troppo complicate"
+	cont "per te!"
 	done
 
 _CinnabarGymSuperNerd4BattleText::
-	text "I just like using"
-	line "fire #MON!"
+	text "Mi piace usare i"
+	line "#MON di fuoco!"
 	done
 
 _CinnabarGymSuperNerd4EndBattleText::
-	text "Too hot"
-	line "to handle!"
+	text "Che"
+	line "patata bollente!"
 	prompt
 
 _CinnabarGymSuperNerd4AfterBattleText::
-	text "I wish there was"
-	line "a thief #MON!"
-	cont "I'd use that!"
+	text "Userei volentieri"
+	line "un #MON ladro"
+	cont "se ce ne fossero!"
 	done
 
 _CinnabarGymSuperNerd5BattleText::
-	text "I know why BLAINE"
-	line "became a trainer!"
+	text "So perché BLAINE"
+	line "è diventato un"
+	cont "allenatore!"
 	done
 
 _CinnabarGymSuperNerd5EndBattleText::
-	text "Ow!"
+	text "Ahia!"
 	prompt
 
 _CinnabarGymSuperNerd5AfterBattleText::
-	text "BLAINE was lost"
-	line "in the mountains"
-	cont "when a fiery bird"
-	cont "#MON appeared."
+	text "BLAINE si era"
+	line "perso in montagna"
+	cont "quando apparve un"
+	cont "uccello di fuoco."
 
-	para "Its light enabled"
-	line "BLAINE to find"
-	cont "his way down!"
+	para "Grazie alla sua"
+	line "luce, BLAINE poté"
+	cont "ritrovare la via."
 	done
 
 _CinnabarGymSuperNerd6BattleText::
-	text "I've been to many"
-	line "GYMs, but this is"
-	cont "my favorite!"
+	text "Conosco molte"
+	line "PALESTRE, ma"
+	cont "la mia preferita"
+	cont "è questa!"
 	done
 
 _CinnabarGymSuperNerd6EndBattleText::
-	text "Yowza!"
-	line "Too hot!"
+	text_start
+	line "Mannaggia!"
+	cont "È troppo caldo!"
 	prompt
 
 _CinnabarGymSuperNerd6AfterBattleText::
-	text "Us fire #MON"
-	line "fans like PONYTA"
-	cont "and NINETALES!"
+	text "A noi fan dei"
+	line "#MON di fuoco"
+	cont "piacciono PONYTA"
+	cont "e NINETALES!"
 	done
 
 _CinnabarGymSuperNerd7BattleText::
-	text "Fire is weak"
-	line "against H2O!"
+	text "Il fuoco è debole"
+	line "contro l'H2O!"
 	done
 
 _CinnabarGymSuperNerd7EndBattleText::
-	text "Oh!"
-	line "Snuffed out!"
+	text "Perso"
+	line "miseramente!"
 	prompt
 
 _CinnabarGymSuperNerd7AfterBattleText::
-	text "Water beats fire!"
-	line "But, fire melts"
-	cont "ice #MON!"
+	text "L'acqua batte il"
+	line "fuoco! Il fuoco"
+	cont "però scioglie i"
+	cont "#MON del"
+	cont "tipo ghiaccio!"
 	done
 
 _CinnabarGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Ehi! Aspirante"
+	line "campione!"
 
-	para "The hot-headed"
-	line "BLAINE is a fire"
-	cont "#MON pro!"
+	para "Quella testa calda"
+	line "di BLAINE è un"
+	cont "maestro con i"
+	cont "#MON di fuoco!"
 
-	para "Douse his spirits"
-	line "with water!"
+	para "Usa l'acqua per"
+	line "calmare i suoi"
+	cont "bollenti spiriti!"
 
-	para "You better take"
-	line "some BURN HEALs!"
+	para "Ti consiglio degli"
+	line "ANTISCOTTATURA!"
 	done
 
 _CinnabarGymGymGuideBeatBlaineText::
-	text "<PLAYER>! You beat"
-	line "that fire brand!"
+	text "<PLAYER>! Hai"
+	line "spento quel"
+	cont "braciere!"
 	done

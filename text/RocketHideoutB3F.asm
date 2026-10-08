@@ -1,35 +1,36 @@
 _RocketHideoutB3FRocket1BattleText::
-	text "Stop meddling in"
-	line "TEAM ROCKET's"
-	cont "affairs!"
+	text "Non immischiarti"
+	line "negli affari di"
+	cont "TEAM ROCKET!"
 	done
 
 _RocketHideoutB3FRocket1EndBattleText::
-	text "Oof!"
-	line "Taken down!"
+	text "Uff! Sono"
+	line "al tappeto!"
 	prompt
 
 _RocketHideoutB3FRocket1AfterBattleText::
-	text "SILPH SCOPE?"
-	line "The machine the"
-	cont "BOSS stole. It's"
-	cont "here somewhere."
+	text "La SPETTROSONDA?"
+	line "La macchina"
+	cont "rubata dal CAPO."
+	cont "Dev'essere qui da"
+	cont "qualche parte..."
 	done
 
 _RocketHideout3BattleText::
-	text "We got word from"
-	line "upstairs that you"
-	cont "were coming!"
+	text "Abbiamo già"
+	line "avuto notizia del"
+	cont "tuo arrivo!"
 	done
 
 _RocketHideout3EndBattleText3::
-	text "What?"
-	line "I lost? No!"
+	text "Ho perso?"
+	line "Impossibile!!!"
 	prompt
 
 _RocketHide3AfterBattleText3::
-	text "Go ahead and go!"
-	line "But, you need the"
-	cont "LIFT KEY to run"
-	cont "the elevator!"
+	text "Va avanti, dai!"
+	line "Ma ti serve"
+	cont "la CHIAVE"
+	cont "DELL'ASCENSORE!"
 	done

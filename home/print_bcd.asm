@@ -20,7 +20,7 @@ PrintBCDNumber::
 	jr z, .loop
 	bit BIT_LEADING_ZEROES, b
 	jr nz, .loop
-	ld [hl], '¥'
+	ld [hl], '$'
 	inc hl
 .loop
 	ld a, [de]
@@ -40,7 +40,7 @@ PrintBCDNumber::
 .skipRightAlignmentAdjustment
 	bit BIT_MONEY_SIGN, b
 	jr z, .skipCurrencySymbol
-	ld [hl], '¥'
+	ld [hl], '$'
 	inc hl
 .skipCurrencySymbol
 	ld [hl], '0'
@@ -59,7 +59,7 @@ PrintBCDDigit::
 ; if bit 7 is set, then no numbers have been printed yet
 	bit BIT_MONEY_SIGN, b
 	jr z, .skipCurrencySymbol
-	ld [hl], '¥'
+	ld [hl], '$'
 	inc hl
 	res BIT_MONEY_SIGN, b
 .skipCurrencySymbol

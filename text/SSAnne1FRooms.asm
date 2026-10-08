@@ -1,105 +1,107 @@
 _SSAnne1FRoomsWigglytuffText::
-	text "WIGGLYTUFF: Puup"
-	line "pupuu!@"
+	text "WIGGLYTUFF: Tuf..."
+	line "tuf!@"
 	text_end
 
 _SSAnne1FRoomsGentleman1BattleText::
-	text "I travel alone"
-	line "on my journeys!"
+	text "Vado per la mia"
+	line "strada da solo!"
 
-	para "My #MON are my"
-	line "only friends!"
+	para "I miei unici amici"
+	line "sono i #MON!"
 	done
 
 _SSAnne1FRoomsGentleman1EndBattleText::
-	text "My, my"
-	line "friends..."
+	text "Oh no!"
+	line "I miei amici!!!"
 	prompt
 
 _SSAnne1FRoomsGentleman1AfterBattleText::
-	text "You should be"
-	line "nice to friends!"
+	text "Tratta bene"
+	line "gli amici!"
 	done
 
 _SSAnne1FRoomsGentleman2BattleText::
-	text "You pup! How dare"
-	line "you barge in!"
+	text "Ehi tu, moccioso!"
+	line "Come osi entrare?"
 	done
 
 _SSAnne1FRoomsGentleman2EndBattleText::
-	text "Humph!"
-	line "You rude child!"
+	text "Che"
+	line "maleducazione!"
 	prompt
 
 _SSAnne1FRoomsGentleman2AfterBattleText::
-	text "I wish to be left"
-	line "alone! Get out!"
+	text "Voglio essere"
+	line "lasciato in pace!"
+
+	para "Fuori dai piedi!"
 	done
 
 _SSAnne1FRoomsYoungsterBattleText::
-	text "I love #MON!"
-	line "Do you?"
+	text "Io adoro"
+	line "i #MON, e tu?"
 	done
 
 _SSAnne1FRoomsYoungsterEndBattleText::
-	text "Wow! "
-	line "You're great!"
+	text "Wow!"
+	line "Sei una forza!"
 	prompt
 
 _SSAnne1FRoomsYoungsterAfterBattleText::
-	text "Let me be your"
-	line "friend, OK?"
+	text "Perché non"
+	line "diventiamo amici?"
 
-	para "Then we can trade"
-	line "#MON!"
+	para "Ci scambieremo"
+	line "i #MON!"
 	done
 
 _SSAnne1FRoomsCooltrainerFBattleText::
-	text "I collected these"
-	line "#MON from all"
-	cont "around the world!"
+	text "Questi #MON"
+	line "provengono da"
+	cont "tutto il mondo!"
 	done
 
 _SSAnne1FRoomsCooltrainerFEndBattleText::
-	text "Oh no!"
-	line "I went around the"
-	cont "world for these!"
+	text "E io avrei"
+	line "fatto il giro del"
+	cont "mondo per questi?"
 	prompt
 
 _SSAnne1FRoomsCooltrainerFAfterBattleText::
-	text "You hurt my poor"
-	line "worldly #MON!"
+	text "Hai ferito i miei"
+	line "poveri #MON!!!"
 
-	para "I demand that you"
-	line "heal them at a"
-	cont "#MON CENTER!"
+	para "Portameli al"
+	line "CENTRO #MON!!!"
 	done
 
 _SSAnne1FRoomsGirl1Text::
-	text "Waiter, I would"
-	line "like a cherry pie"
-	cont "please!"
+	text "Cameriere, una"
+	line "fetta di torta di"
+	cont "ciliegie, prego!"
 	done
 
 _SSAnne1FRoomsMiddleAgedManText::
-	text "A cruise is so"
-	line "elegant yet cozy!"
+	text "Le crociere sono"
+	line "così eleganti"
+	cont "e piacevoli!"
 	done
 
 _SSAnne1FRoomsLittleGirlText::
-	text "I always travel"
-	line "with WIGGLYTUFF!"
+	text "Viaggio sempre"
+	line "con WIGGLYTUFF!"
 	done
 
 _SSAnne1FRoomsGirl2Text::
-	text "We are cruising"
-	line "around the world."
+	text "Siamo in crociera"
+	line "attorno al mondo!"
 	done
 
 _SSAnne1FRoomsGentleman3Text::
-	text "Ssh! I'm a GLOBAL"
-	line "POLICE agent!"
+	text "Ssh! Sono un"
+	line "POLIZIOTTO!"
 
-	para "I'm on the trail"
-	line "of TEAM ROCKET!"
+	para "Sono sulle tracce"
+	line "di TEAM ROCKET!"
 	done

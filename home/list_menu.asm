@@ -212,6 +212,8 @@ DisplayChooseQuantityMenu::
 	ld a, [wListMenuID]
 	cp PRICEDITEMLISTMENU
 	jr nz, .printInitialQuantity
+
+
 	hlcoord 8, 10
 .printInitialQuantity
 	ld de, InitialQuantityText
@@ -295,7 +297,7 @@ DisplayChooseQuantityMenu::
 	ld de, SpacesBetweenQuantityAndPriceText
 	call PlaceString
 	ld de, hMoney ; total price
-	ld c, 3 | LEADING_ZEROES | MONEY_SIGN
+	ld c, $A3 | LEADING_ZEROES
 	call PrintBCDNumber
 	hlcoord 9, 10
 .printQuantity
@@ -420,8 +422,9 @@ PrintListMenuEntries::
 	pop hl
 	ld bc, SCREEN_WIDTH + 5 ; 1 row down and 5 columns right
 	add hl, bc
-	ld c, 3 | LEADING_ZEROES | MONEY_SIGN
+	ld c, $A3 | LEADING_ZEROES
 	call PrintBCDNumber
+	
 .skipPrintingItemPrice
 	ld a, [wListMenuID]
 	and a ; PCPOKEMONLISTMENU?
@@ -525,4 +528,4 @@ PrintListMenuEntries::
 	jp PlaceString
 
 ListMenuCancelText::
-	db "CANCEL@"
+	db "ESCI@"

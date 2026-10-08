@@ -1,97 +1,98 @@
 _Route6CooltrainerM1BattleText::
-	text "Who's there?"
-	line "Quit listening in"
-	cont "on us!"
+	text "Chi va là? Smetti"
+	line "di origliare!"
 	done
 
 _Route6CooltrainerM1EndBattleText::
-	text "I"
-	line "just can't win!"
+	text_start
+	line "Elementare, non"
+	cont "riesco a vincere!"
 	prompt
 
 _Route6CooltrainerAfterBattleText::
-	text "Whisper..."
-	line "whisper..."
+	text "Sussurro..."
+	line "Sussurro..."
 	done
 
 _Route6CooltrainerF1BattleText::
-	text "Excuse me! This"
-	line "is a private"
-	cont "conversation!"
+	text "Scusa, ma è una"
+	line "conversazione"
+	cont "privata!"
 	done
 
 _Route6CooltrainerF1EndBattleText::
-	text "Ugh!"
-	line "I hate losing!"
+	text "Grr!"
+	line "Odio perdere!"
 	prompt
 
 _Route6Youngster1BattleText::
-	text "There aren't many"
-	line "bugs out here."
+	text "Non ci sono molti"
+	line "coleotteri qui."
 	done
 
 _Route6Youngster1EndBattleText::
 	text "No!"
-	line "You're kidding!"
+	line "Scherzi?!"
 	prompt
 
 _Route6Youngster1AfterBattleText::
-	text "I like bugs, so"
-	line "I'm going back to"
-	cont "VIRIDIAN FOREST."
+	text "Mi piacciono i"
+	line "coleotteri!"
+	cont "Tornerò a"
+	cont "BOSCOSMERALDO."
 	done
 
 _Route6CooltrainerM2BattleText::
-	text "Huh? You want"
-	line "to talk to me?"
+	text "Eh? Volevi"
+	line "parlarmi?"
 	done
 
 _Route6CooltrainerM2EndBattleText::
-	text "I"
-	line "didn't start it!"
+	text "Non"
+	line "ho cominciato io!"
 	prompt
 
 _Route6CooltrainerM2AfterBattleText::
-	text "I should carry"
-	line "more #MON with"
-	cont "me for safety."
+	text "Per sicurezza"
+	line "dovrei portar più"
+	cont "#MON con me."
 	done
 
 _Route6CooltrainerF2BattleText::
-	text "Me? Well, OK."
-	line "I'll play!"
+	text "Dici a me? Bene!"
+	line "Giochiamo!"
 	done
 
 _Route6CooltrainerF2EndBattleText::
-	text "Just"
-	line "didn't work!"
+	text "Non"
+	line "ha funzionato!"
 	prompt
 
 _Route6CooltrainerF2AfterBattleText::
-	text "I want to get"
-	line "stronger! What's"
-	cont "your secret?"
+	text "Devo rinforzarmi!"
+	line "Qual è il tuo"
+	cont "segreto?"
 	done
 
 _Route6Youngster2BattleText::
-	text "I've never seen"
-	line "you around!"
-	cont "Are you good?"
+	text "Non ti ho mai"
+	line "visto in giro!"
+	cont "Sei in gamba?"
 	done
 
 _Route6Youngster2EndBattleText::
-	text "You"
-	line "are too good!"
+	text "Sei"
+	line "troppo in gamba!"
 	prompt
 
 _Route6Youngster2AfterBattleText::
-	text "Are my #MON"
-	line "weak? Or, am I"
-	cont "just bad?"
+	text "Sono deboli i miei"
+	line "#MON o sono un"
+	cont "disastro io?"
 	done
 
 _Route6UndergroundPathSignText::
-	text "UNDERGROUND PATH"
-	line "CERULEAN CITY -"
-	cont "VERMILION CITY"
+	text "VIA SOTTERRANEA"
+	line "CELESTOPOLI -"
+	cont "ARANCIOPOLI"
 	done

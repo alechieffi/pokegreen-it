@@ -141,12 +141,12 @@ LinkMenu:
 	call SaveScreenTilesToBuffer1
 	ld hl, WhereWouldYouLikeText
 	call PrintText
-	hlcoord 5, 5
+	hlcoord 4, 5
 	ld b, $6
-	ld c, $d
+	ld c, $e
 	call TextBoxBorder
 	call UpdateSprites
-	hlcoord 7, 7
+	hlcoord 6, 7
 	ld de, CableClubOptionsText
 	call PlaceString
 	xor a
@@ -156,7 +156,7 @@ LinkMenu:
 	ld a, 7
 	ld [hli], a
 	ASSERT wTopMenuItemY + 1 == wTopMenuItemX
-	ld a, 6
+	ld a, $5
 	ld [hli], a
 	ASSERT wTopMenuItemX + 1 == wCurrentMenuItem
 	xor a
@@ -245,11 +245,11 @@ LinkMenu:
 	ld c, d
 .updateCursorPosition
 	ld a, b
-	ldcoord_a 6, 7
+	ldcoord_a 5, 7
 	ld a, c
-	ldcoord_a 6, 9
+	ldcoord_a 5, 9
 	ld a, d
-	ldcoord_a 6, 11
+	ldcoord_a 5, 11
 	ld c, 40
 	call DelayFrames
 	call LoadScreenTilesFromBuffer1
@@ -341,18 +341,18 @@ SpecialEnterMap::
 	jp EnterMap
 
 ContinueText:
-	db "CONTINUE"
+	db "CONTINUA"
 	next ""
 	; fallthrough
 
 NewGameText:
-	db   "NEW GAME"
-	next "OPTION@"
+	db   "NUOVO GIOCO"
+	next "OPZIONI@"
 
 CableClubOptionsText:
-	db   "TRADE CENTER"
-	next "COLOSSEUM"
-	next "CANCEL@"
+	db   "CENTRO SCAMBI"
+	next "COLOSSEO"
+	next "ESCI@"
 
 DisplayContinueGameInfo:
 	xor a
@@ -435,10 +435,10 @@ PrintPlayTime:
 	jp PrintNumber
 
 SaveScreenInfoText:
-	db   "PLAYER"
-	next "BADGES    "
+	db   "GIOCA"
+	next "MEDAGLIE    "
 	next "#DEX    "
-	next "TIME@"
+	next "TEMPO@"
 
 DisplayOptionMenu:
 	hlcoord 0, 0
@@ -595,19 +595,19 @@ DisplayOptionMenu:
 	jp .eraseOldMenuCursor
 
 TextSpeedOptionText:
-	db   "TEXT SPEED"
-	next " FAST  MEDIUM SLOW@"
+	db   "VELOC. TESTO"
+	next " 3     2      1   @"
 
 BattleAnimationOptionText:
-	db   "BATTLE ANIMATION"
-	next " ON       OFF@"
+	db   "ANIMAZIONE LOTTA"
+	next " SI       NO@"
 
 BattleStyleOptionText:
-	db   "BATTLE STYLE"
-	next " SHIFT    SET@"
+	db   "STILE LOTTA"
+	next " SCEGLI   FISSO@"
 
 OptionMenuCancelText:
-	db "CANCEL@"
+	db "ESCI@"
 
 ; sets the options variable according to the current placement of the menu cursors in the options menu
 SetOptionsFromCursorPositions:

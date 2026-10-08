@@ -1,42 +1,44 @@
 _SilphCo10FSilphWorkerFImScaredText::
-	text "Waaaaa!"
-	cont "I'm scared!"
+	text "Wow!"
+	line "Che paura!"
 	done
 
 _SilphCo10FSilphWorkerFQuietAboutMyCryingText::
-	text "Please keep quiet"
-	line "about my crying!"
+	text "Per favore, non"
+	line "dire a nessuno"
+	cont "che ho pianto!"
 	done
 
 _SilphCo10FRocketBattleText::
-	text "Welcome to the"
-	line "10F! So good of"
-	cont "you to join me!"
+	text "Benvenuto al"
+	line "9º piano! Felice"
+	cont "di vederti!"
 	done
 
 _SilphCo10FRocketEndBattleText::
-	text "I'm"
-	line "stunned!"
+	text_start
+	line "Sono basito!"
 	prompt
 
 _SilphCo10FRocketAfterBattleText::
-	text "Nice try, but the"
-	line "boardroom is up"
-	cont "one more floor!"
+	text "Bel colpo, ma la"
+	line "sala consiliare"
+	cont "è al piano"
+	cont "superiore!"
 	done
 
 _SilphCo10FScientistBattleText::
-	text "Enough of your"
-	line "silly games!"
+	text "Ora basta con"
+	line "i giochetti!"
 	done
 
 _SilphCo10FScientistEndBattleText::
-	text "No"
-	line "continues left!"
+	text "Non"
+	line "c'è più speranza!"
 	prompt
 
 _SilphCo10FScientistAfterBattleText::
-	text "Are you satisfied"
-	line "with beating me?"
-	cont "Then go on home!"
+	text "Ecco, mi hai"
+	line "battuto!"
+	cont "Tornatene a casa!"
 	done
